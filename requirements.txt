@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+duckdb
+pandas
+pyyaml
+spacy
+requests
+beautifulsoup4
+python-multipart

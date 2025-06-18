@@ -1,0 +1,12 @@
+# Database Configuration
+database_path: "data/paper_data.duckdb"
+storage_backend: duckdb
+duckdb_path: "data/papers.duckdb"  # Consolidated path location
+
+# API Configuration
+api_key: "your_secure_api_key"
+data_source: "PMC"
+
+# Logging Configuration
+log_level: "INFO"
+logging_level: "INFO"  # Optional alias, can be removed if redundant

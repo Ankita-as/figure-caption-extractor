@@ -1,0 +1,89 @@
+{
+  "paper_id": "PMC2898796",
+  "captions": [
+    {
+      "caption": "To determine the hearing function of ILS and SS mice, we measured thresholds and wave I amplitudes of auditory-evoked brain stem responses. In twelve-week-old ISS mice we found significantly elevated thresholds at the click (p<0.01) and 32 kHz stimuli (p<0.001), compared to normal hearing, age-matched C3HeB/FeJ mice. The mean thresholds at the 8- and 16 kHz stimuli were not different although the standard deviation (13- and 23 dB SPL) was significantly higher than in the C3HeB/FeJ controls (p<0.001) ( Fig. 1A  ,  Table 1 ). At 26 weeks of age, hearing thresholds in ISS mice were elevated across all tested stimuli (p<0.001), being highest at the 32 kHz and lowest at the 8 kHz stimuli. ILS mice showed normal hearing thresholds at twelve weeks of age. However, at 26 weeks there was a noticeable hearing loss at the high frequency 32 kHz stimulus with a mean threshold of 72±9 dB SPL, which was 22 dB SPL higher than that of C3HeB/FeJ controls (p<0.001;  Fig. 1A  ,  Table 1 ).",
+      "figure_url": null
+    },
+    {
+      "caption": "Auditory characteristics of ILS and ISS mice.",
+      "figure_url": null
+    },
+    {
+      "caption": "\nA. ABR thresholds at click (c) and pure tone pips at 8-, 16-, and 32 kHz at twelve and 26 weeks (wks) of age. Data are given as mean ± SD. B. Wave I ABR amplitudes at 8- and 16 kHz stimuli at 60 dB SPL input levels. Data are given as mean ± SD. µV, microvolt. C. Latencies of ABR waves I – V at a 16 kHz stimulus of 60 dB SPL. Data are given as mean ± SD; msec, milliseconds. D. DPOAE output levels at 2f1-f2 in dB SPL over f2 frequency range 6–56 kHz (left panel). The right panel shows I/O function at f2 = 16 kHz. Data are given as mean ± SEM. E. Endocochlear potentials. Data are given as mean ± SD; mV, milliVolt. For all panels: C3HeB/FeJ (blue), ILS (green) and ISS (red); **p<0.01; ***p<0.001.",
+      "figure_url": null
+    },
+    {
+      "caption": "To determine whether the compound auditory nerve action potential is affected, we measured the wave I ABR peak-to-peak amplitude at supra-threshold hearing levels (60 dB SPL at 8- and 16 kHz). In both ILS and ISS mice, we observed a significant decrease in amplitudes at 8- and 16 kHz compared to C3HeB/FeJ at 26 weeks of age (p<0.001) ( Fig. 1B ). For instance, in both ILS and ISS mice, the amplitude at 8 kHz and 60 dB SPL stimuli measured 0.2±0.2 µV (n = 16) and 0.3±0.2 µV (n = 3), respectively, compared to 1.2±0.5 µV (n = 6) for C3HeB/FeJ control mice. To determine whether neural propagation of the ascending auditory pathway was compromised, we measured the latencies of ABR waves I through V. In 26-week-old ILS and ISS mice, there was no significant difference in latencies at the 8- and 16 kHz stimuli compared to C3HeB/FeJ controls ( Fig. 1C ).",
+      "figure_url": null
+    },
+    {
+      "caption": "To differentiate the abnormal compound auditory responses, we ascertained the function of the sensory outer hair cells directly by using distortion-product otoacoustic emission (DPOAE) tests. In 26-week-old ISS mice, we found complete absence of distortion-products at L1 = 75 dB SPL and f2 = 30–52 kHz. At f = 18–30 kHz, we measured a significant reduction in emission levels (p<0.001), while at the lower frequency range (f2 = 6–16 kHz) DPOAE levels were comparable to control mice ( Fig. 1D ). In 26-week-old ILS mice, we measured a significant reduction in DPOAE levels at f2 = 20–52 kHz, which was most pronounced at the 45–52 kHz range and progressed from higher to lower f2 frequencies ( Fig. 1D ). Emission levels were normal in the lower frequency range in these animals (f2 = 6–20 kHz). To test whether a defect in the stria vascularis could account for the abnormal ABRs and reduced emission levels, we measured the voltage potential in the scala media at the level of the round window. We observed endocochlear potentials (EP) of 104±6 mV (n = 10) and 109±4 mV (n = 4) in 26-week-old ILS and ISS mice, respectively, which was comparable with the potentials measured in normal hearing C3HeB/FeJ mice (94±9 mV; n = 5; p>0.05) ( Fig. 1E ).",
+      "figure_url": null
+    },
+    {
+      "caption": "To reveal the inner ear histopathology, we obtained modiolar sections of twelve-week-old ILS and ISS cochleae. The organ of Corti ( Fig. 2A, F, K ) and spiral ligament ( Fig. 2B, G, L ), which are commonly affected by progressive hearing loss, were normal in appearance as was the stria vascularis ( Fig. 2C, H, M ). Spiral ganglia at the base showed signs of degeneration in both ILS and ISS ears, but similar slight degeneration was also observed in C3HeB/FeJ controls ( Fig. 2D, I, N ). Neuronal cell counts per 800 µm2 section (n = 6) were not significantly different in ILS (35±10) and ISS (30±13) animals compared when to C3HeB/FeJ controls (46±13; p>0.05). Furthermore, cell densities in the ganglia at mid-apical regions were also indistinguishable among ILS, ISS and C3HeB/FeJ controls ( Fig. 2E, J, O ).",
+      "figure_url": null
+    },
+    {
+      "caption": "Inner ear histology in ILS and ISS mice.",
+      "figure_url": null
+    },
+    {
+      "caption": "Tolouidin blue-stained plastic sections through the cochlear duct in twelve-week-old ILS and ISS and eight-week-old C3HeB/FeJ (C3H) mice. A,F,K, Cross section through the organ of Corti at the mid-apical region; tm, tectorial membrane; oh, outer hair cell; ih, inner hair cell; sc, supporting cell; tC, tunnel of Corti; sM, scala media; scale bar  =  50 µm. B,G,L, Cross section through the spiral ligament at the mid-apical region of the cochlear duct. White arrow indicates a fibrocyte. sL, spiral ligament; scale bar  =  50 µm. C,H,M, Cross section through the stria vascularis at the mid-apical region of the cochlear duct. Red arrow, basal cell; white arrow, intermediate cell; green arrow, marginal cell; sV, stria vascularis; scale bar  =  10 µm. D,I,N, Cross section through the spiral ganglion near the base of the cochlear duct. Red arrow points to areas of degeneration. sG, spiral ganglion; scale bar  =  50 µm. E,J,O, Cross section through the spiral ganglion at the mid-apical region of the cochlear duct. White arrow points to a neuron and the red arrow indicates a Schwann cell. sG, spiral ganglion; scale bar  =  50 µm.",
+      "figure_url": null
+    },
+    {
+      "caption": "To genetically map the loci underlying the hearing impairment in the ILS and ISS mice, we measured ABR thresholds in the 63 recombinant inbred strains derived from the ILS and ISS parental strains. We tested four twelve-week-old mice from each strain using four stimuli. At the click stimulus, thresholds followed a normal distribution, with a mean of 55±17 dB SPL (n = 63). At the 16 kHz stimulus, thresholds followed a bimodal distribution, with means of 28±10 dB SPL (n = 33) and 84±10 dB SPL (n = 30). Thresholds at the 8 kHz stimulus showed a similar bimodal distribution. At the 32 kHz stimulus, threshold values were also distributed bimodally, but the histogram was shifted toward higher mean threshold values of 53±11 (n = 31) and 95±6 dB SPL (n = 32) ( Fig. 3A–D ). These distributions suggested the segregation of one major locus with a dynamic phenotype at twelve weeks of age.",
+      "figure_url": null
+    },
+    {
+      "caption": "ABR threshold distribution in the LXS RI set.",
+      "figure_url": null
+    },
+    {
+      "caption": "\nA–D. Histograms showing threshold distributions at the click (A), 8- (B), 16- (C), and 32 kHz (D) stimuli. The Y-axis represents the number of RI strains, and the X-axis denotes the threshold level. Histograms were fitted with a normal Gaussian distribution. r2  =  goodness-of-fit.",
+      "figure_url": null
+    },
+    {
+      "caption": "We next performed a genome-wide linkage scan using WebQTL, which employs a linear regression model to compute marker/phenotype correlations. We found highly significant correlations between elevated thresholds at the 8-, 16-, and 32 kHz stimuli and markers on chromosome 10 (rs3682060, rs13480620; p<0.001). The correlation was highest at the 32 kHz stimulus with a logarithm of odds (LOD) score of 15.8 and was associated with ISS-derived alleles. The association between click-derived thresholds and markers on chromosome 10 was only marginal, and was below the genome-wide significance level (p>0.01). Additional spurious linkage was obtained with regions on chromosomes 2, 6, 11, 12, and 15 (0.05>p>0.01) ( Table 2 ;  Fig. 4A, B ). To detect QTLs hidden by the strong locus on chromosome 10, we performed composite QTL mapping. However, this did not reveal any additional significant hits. Interval mapping combined with bootstrap testing and a 2-LOD cut-off margin localized the QTL confidence interval to a ∼4 Mb region localized at the 54–60 Mb position on chromosome 10 ( Fig. 4C ). We named this QTL Sensorineural hearing loss 1 (Snhl1).",
+      "figure_url": null
+    },
+    {
+      "caption": "Genome-wide linkage scan.",
+      "figure_url": null
+    },
+    {
+      "caption": "Shown are WebQTL plots of genome-wide (A, B) and chromosome-specific (C) regression analyses. A, B. The X-axis represents the number of chromosome number and the Y-axis gives the LOD score. Red and blue dotted lines indicate the 0.01 and 0.05 genome-wide significance level obtained through permutation testing. Peak LOD scores at chromosome 6, 10 and 15 at the click (A) and chromosome 10 and 15 at the 32 kHz (B) stimulus are indicated. C. Results of chromosome 10 interval mapping. X-axis indicates the physical position in Megabases (Mb) and the Y-axis denotes the LOD score for the thresholds at the 32 kHz stimulus. Dotted horizontal lines indicate the genome-wide significance level. Vertical black dotted line denotes the 2-LOD confidence interval of Snhl1 at chromosome (chr) 10.",
+      "figure_url": null
+    },
+    {
+      "caption": "To detect interacting QTLs, we performed a two-dimensional genome-wide linkage scan, but no genetic interactions or epistatic effects were measured. We estimate that the Snhl1 locus accounts for approximately 82% of the phenotypic variation ( Fig. 5 ).",
+      "figure_url": null
+    },
+    {
+      "caption": "\nSnhl1 phenotype/genotype correlation.",
+      "figure_url": null
+    },
+    {
+      "caption": "ABR thresholds at the 32 kHz stimulus of each of the 63 RI strains (grey) and the parental ILS (green) and ISS (red) strains as a function of their genotype at markers rs3682060, rs13480620, and Cdh23753 are shown. ABR thresholds (in dB SPL; Y-axis) are given as mean ± SD (n = 4). The grey box denotes the number of strains and threshold range unexplained by Snhl1. The ISS allele is shown in green (C, cytosine; G, guanine) and the ILS allele is represented in red (T, thymidine; A, adenine) boxes. The number of the RI strain carrying a recombinant chromosome and the threshold at the 32 kHz is shown below the haplotypes. On the right, the physical location of the marker on chromosome 10 in base pairs (bp) is given and the most likely location of Snhl1 is indicated.",
+      "figure_url": null
+    },
+    {
+      "caption": "The 2-LOD confidence interval of Snhl1 contains cadherin-23 (Cdh23). A 753G>A polymorphism in Cdh23 (chr10: 59,993,653 bp) has previously been implicated in age-related hearing loss in C57BL/6J, DBA/2J, and other inbred strains. To ascertain the genetic location of Cdh23 relative to Snhl1, we determined the allele status of Cdh23753 in the parental and the 63 LXS RI strains. Consistent with the origin of the haplotype blocks, we found that mice of the ILS strain carry the Cdh23753G allele and mice of the ISS strain have the Cdh23753A allele. Among the 63 RI strains, the Cdh23753 polymorphism was concordant with marker rs13480620, except for strain LXS42, which carried the 753G allele in the presence of a profound hearing loss ( Fig. 5 ).",
+      "figure_url": null
+    },
+    {
+      "caption": "Another QTL underlying progressive hearing loss, progressive hearing loss 2 (Phl2), was mapped in the 101/H strain. The QTL association peaked with marker D10Mit115 (chr10: 69,739,444Mb) and the 2-LOD confidence interval, encompassing approximately 17 Mb, ranges from Cdh23 to D10Mit139 (chr10:60,091,228–77,695,405 Mb). This QTL interval seems to place Phl2 outside of the Snhl1 interval ( Fig. 6 ). Furthermore, the 101/H strain is closely related to the group of 129 strains. Given the genetic distance between the 129 strains and the eight founder strains, it seems unlikely that Phl2 and Snhl1 are identical or represent allelic forms of the same locus.",
+      "figure_url": null
+    },
+    {
+      "caption": "Location of hearing loss QTLs on chromosome 10.",
+      "figure_url": null
+    },
+    {
+      "caption": "Graphic representation of loci involved in hearing function on mouse chromosome (chr) 10. The markers flanking each QTL (Snhl1, Phl2, and ahl5) are given on the top, the 2-LOD confidence interval defined by the markers is given in the middle, and the physical scale (Mb, megabases from the centromere) is given on the bottom.",
+      "figure_url": null
+    }
+  ]
+}

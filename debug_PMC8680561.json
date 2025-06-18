@@ -1,0 +1,74 @@
+[
+  {
+    "bioctype": "BioCCollection",
+    "source": "PMC",
+    "date": "20250127",
+    "key": "pmc.key",
+    "version": "1.0",
+    "infons": {},
+    "documents": [
+      {
+        "bioctype": "BioCDocument",
+        "id": "PMC8680561",
+        "infons": {
+          "license": "CC BY"
+        },
+        "passages": [
+          {
+            "bioctype": "BioCPassage",
+            "offset": 0,
+            "infons": {
+              "article-id_doi": "10.1093/geroni/igab046.2076",
+              "article-id_pmc": "PMC8680561",
+              "article-id_publisher-id": "igab046.2076",
+              "fpage": "540",
+              "issue": "Suppl 1",
+              "license": "This is an Open Access article distributed under the terms of the Creative Commons Attribution License (http://creativecommons.org/licenses/by/4.0/), which permits unrestricted reuse, distribution, and reproduction in any medium, provided the original work is properly cited.",
+              "lpage": "540",
+              "name_0": "surname:Kim;given-names:Heejung",
+              "name_1": "surname:Cho;given-names:Youngshin",
+              "name_2": "surname:Lim;given-names:Kyuhee",
+              "name_3": "surname:Lee;given-names:Sunghee",
+              "name_4": "surname:Kim;given-names:Yuntae",
+              "name_5": "surname:Kim;given-names:Mijung",
+              "section_type": "TITLE",
+              "type": "front",
+              "volume": "5",
+              "year": "2021"
+            },
+            "text": "Developing Multimodal IoMT Monitoring System of Geriatric Depression: A Feasibility Study",
+            "sentences": [],
+            "annotations": [],
+            "relations": []
+          },
+          {
+            "bioctype": "BioCPassage",
+            "offset": 90,
+            "infons": {
+              "section_type": "ABSTRACT",
+              "type": "abstract_title_1"
+            },
+            "text": "Abstract",
+            "sentences": [],
+            "annotations": [],
+            "relations": []
+          },
+          {
+            "bioctype": "BioCPassage",
+            "offset": 99,
+            "infons": {
+              "section_type": "ABSTRACT",
+              "type": "abstract"
+            },
+            "text": "The Internet of Medical Things (IoMT) is a promising tool to monitor depression and relevant symptoms. However, the multimodal IoMT monitoring system has been rarely developed considering the characteristics of older adults, particularly living in the community. Therefore, it is necessary to know how to develop multimodal IoMT monitoring systems tailored for older adults and evaluate the feasibility for research and practice. We developed a multimodal IoMT monitoring system that included a smartphone for facial and verbal expressions, smartwatch for activity and heart rates, and ecological momentary assessment (EMA) application. A convenience sample of 21 older Korean adults aged over 65 years was recruited from a community center, and 19 participants completed it. The data were collected in four weeks using self-report questionnaires, IoMT devices, and semi-structured interviews between July and December 2020 and were analyzed in mixed methods. Based on the Geriatric Depression Scale-Short Form scores, eight participants were classified in the depressive group (38.1%) and 13 in the non-depressive group (61.9%). A total of 1,505 (70.72%) EMA data were collected, and 1,277 (60.00%) were analyzed. Furthermore, 1,421 (66.78%) facial expression data were collected and labeled, including anger, happiness, neutral, sadness, surprise, and exception. Voice dialogues were transformed into 5,264 scripts. The depressive group showed lower user acceptance relative to the non-depressive group. However, both groups experienced positive emotions, had regular life patterns, and increased their self-interest. Thus, our multimodal IoMT monitoring system is a feasible and useful measure for acquiring mental health information in older adults\u2019 depression.",
+            "sentences": [],
+            "annotations": [],
+            "relations": []
+          }
+        ],
+        "annotations": [],
+        "relations": []
+      }
+    ]
+  }
+]

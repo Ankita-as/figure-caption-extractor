@@ -1,0 +1,1464 @@
+[
+  {
+    "bioctype": "BioCCollection",
+    "source": "PMC",
+    "date": "20250107",
+    "key": "pmc.key",
+    "version": "1.0",
+    "infons": {},
+    "documents": [
+      {
+        "bioctype": "BioCDocument",
+        "id": "PMC3991889",
+        "infons": {
+          "license": "CC BY"
+        },
+        "passages": [
+          {
+            "bioctype": "BioCPassage",
+            "offset": 0,
+            "infons": {
+              "article-id_doi": "10.1186/1472-6920-14-81",
+              "article-id_pmc": "PMC3991889",
+              "article-id_pmid": "24731511",
+              "article-id_publisher-id": "1472-6920-14-81",
+              "fpage": "81",
+              "kwd": "Non-attendance Absenteeism Lecture Tutorial University students",
+              "license": "This is an Open Access article distributed under the terms of the Creative Commons Attribution License (http://creativecommons.org/licenses/by/2.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly credited. The Creative Commons Public Domain Dedication waiver (http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated.",
+              "lpage": "81",
+              "name_0": "surname:Desalegn;given-names:Anteneh Assefa",
+              "name_1": "surname:Berhan;given-names:Asres",
+              "name_2": "surname:Berhan;given-names:Yifru",
+              "section_type": "TITLE",
+              "type": "front",
+              "volume": "14",
+              "year": "2014"
+            },
+            "text": "Absenteeism among medical and health science undergraduate students at Hawassa University, Ethiopia",
+            "sentences": [],
+            "annotations": [],
+            "relations": []
+          },
+          {
+            "bioctype": "BioCPassage",
+            "offset": 100,
+            "infons": {
+              "section_type": "ABSTRACT",
+              "type": "abstract_title_1"
+            },
+            "text": "Background",
+            "sentences": [],
+            "annotations": [],
+            "relations": []
+          },
+          {
+            "bioctype": "BioCPassage",
+            "offset": 111,
+            "infons": {
+              "section_type": "ABSTRACT",
+              "type": "abstract"
+            },
+            "text": "Student absenteeism is a major concern for university education worldwide. This study was conducted to determine the prevalence and causes of absenteeism among undergraduate medical and health sciences students at Hawassa University.",
+            "sentences": [],
+            "annotations": [],
+            "relations": []
+          },
+          {
+            "bioctype": "BioCPassage",
+            "offset": 345,
+            "infons": {
+              "section_type": "ABSTRACT",
+              "type": "abstract_title_1"
+            },
+            "text": "Methods",
+            "sentences": [],
+            "annotations": [],
+            "relations": []
+          },
+          {
+            "bioctype": "BioCPassage",
+            "offset": 353,
+            "infons": {
+              "section_type": "ABSTRACT",
+              "type": "abstract"
+            },
+            "text": "We conducted a cross-sectional study using a pretested self-administered structured questionnaire from May-June 2013. The primary outcome indicator was self-reported absenteeism from lectures in the semester preceding the study period. The study included all regular undergraduate students who were enrolled in the University for at least one semester. The data was entered and analyzed using SPSS version 20. The association between class absenteeism and socio-demographic and behavioral correlates of absenteeism was determined by bivariate and multivariate analyses. Results were reported as crude odds ratios (COR), adjusted odds ratios (AOR) and 95% confidence intervals (CI).",
+            "sentences": [],
+            "annotations": [],
+            "relations": []
+          },
+          {
+            "bioctype": "BioCPassage",
+            "offset": 1035,
+            "infons": {
+              "section_type": "ABSTRACT",
+              "type": "abstract_title_1"
+            },
+            "text": "Results",
+            "sentences": [],
+            "annotations": [],
+            "relations": []
+          },
+          {
+            "bioctype": "BioCPassage",
+            "offset": 1043,
+            "infons": {
+              "section_type": "ABSTRACT",
+              "type": "abstract"
+            },
+            "text": "1200 students consented and filled the questionnaire. Of these students, 43.7% had missed three or more lectures and 14.1% (95% CI\u2009=\u200912.2-16.2) missed more than 8 lectures in the preceding semester. There was a significant association between missing more than 8 lectures and age of students, chosen discipline (medicine), and social drug use. The main reasons reported for missing lectures were preparing for another examination, lack of interest, lecturer\u2019s teaching style, and availability of lecture material.",
+            "sentences": [],
+            "annotations": [],
+            "relations": []
+          },
+          {
+            "bioctype": "BioCPassage",
+            "offset": 1563,
+            "infons": {
+              "section_type": "ABSTRACT",
+              "type": "abstract_title_1"
+            },
+            "text": "Conclusion",
+            "sentences": [],
+            "annotations": [],
+            "relations": []
+          },
+          {
+            "bioctype": "BioCPassage",
+            "offset": 1574,
+            "infons": {
+              "section_type": "ABSTRACT",
+              "type": "abstract"
+            },
+            "text": "At Hawassa University College of Medicine and Health Science student habits and teacher performance play a role in absenteeism from lectures. A university culture that promotes discipline and integrity especially among medical and older students discourages social drug use will likely improve motivation and attendance. Training in teaching methodologies to improve the quality and delivery of lectures should also help increase attendance.",
+            "sentences": [],
+            "annotations": [],
+            "relations": []
+          },
+          {
+            "bioctype": "BioCPassage",
+            "offset": 2016,
+            "infons": {
+              "section_type": "INTRO",
+              "type": "title_1"
+            },
+            "text": "Background",
+            "sentences": [],
+            "annotations": [],
+            "relations": []
+          },
+          {
+            "bioctype": "BioCPassage",
+            "offset": 2027,
+            "infons": {
+              "section_type": "INTRO",
+              "type": "paragraph"
+            },
+            "text": "Student absenteeism at lectures is a major concern in Hawassa University. Many higher institutions in Ethiopia, including Hawassa University, have explicit policies regarding mandatory attendance during lecture, laboratory and practical sessions. Despite the strict rules, absenteeism is an on-going problem in Ethiopian universities; a phenomenon that is also on the rise in universities worldwide.",
+            "sentences": [],
+            "annotations": [],
+            "relations": []
+          },
+          {
+            "bioctype": "BioCPassage",
+            "offset": 2427,
+            "infons": {
+              "section_type": "INTRO",
+              "type": "paragraph"
+            },
+            "text": "Absenteeism has been shown to be an indicator of low level of motivation for learning. There is extensive literature on the link between absenteeism and lack of subject matter interest, poor teaching strategies, unfavorable learning environment, excessive socialization among students, part-time jobs, ill health, sleeplessness, and poor relations with lecturers. In addition, accessibility of lecture content in the form of online slides, videos, audios have their own contribution to absenteeism.",
+            "sentences": [],
+            "annotations": [],
+            "relations": []
+          },
+          {
+            "bioctype": "BioCPassage",
+            "offset": 2926,
+            "infons": {
+              "section_type": "INTRO",
+              "type": "paragraph"
+            },
+            "text": "A meta-analysis consisting 52 published articles and 16 unpublished papers on the impact of absenteeism on students\u2019 academic performance found a negative association. Other studies have also re-affirmed the indispensable contribution of attending class to better knowledge and cumulative grade point average (CGPA). However, studies have also disputed the role of regular class attendance for better academic performance by emphasizing the importance of prior CGPA, motivation and a score in scholastic aptitude test (SAT) for better academic performance. Furthermore, some argue that not all students learn best from a \u201cdidactic lecture\u201d scenario, especially if someone isn\u2019t an auditory learner.",
+            "sentences": [],
+            "annotations": [],
+            "relations": []
+          },
+          {
+            "bioctype": "BioCPassage",
+            "offset": 3633,
+            "infons": {
+              "section_type": "INTRO",
+              "type": "paragraph"
+            },
+            "text": "The reasons for student absenteeism are similar, though the level and magnitude of each reason may differ from country to country. Despite the observed nature of the problem (absenteeism from class in higher education), there is no published study that assessed the magnitude and predictors of absenteeism in any Ethiopian University. Thus, this study was conducted to determine the magnitude and predictors of absenteeism among undergraduate students of Hawassa University College of Medicine and Health Sciences.",
+            "sentences": [],
+            "annotations": [],
+            "relations": []
+          },
+          {
+            "bioctype": "BioCPassage",
+            "offset": 4148,
+            "infons": {
+              "section_type": "METHODS",
+              "type": "title_1"
+            },
+            "text": "Methods",
+            "sentences": [],
+            "annotations": [],
+            "relations": []
+          },
+          {
+            "bioctype": "BioCPassage",
+            "offset": 4156,
+            "infons": {
+              "section_type": "METHODS",
+              "type": "title_2"
+            },
+            "text": "Study design and setting",
+            "sentences": [],
+            "annotations": [],
+            "relations": []
+          },
+          {
+            "bioctype": "BioCPassage",
+            "offset": 4181,
+            "infons": {
+              "section_type": "METHODS",
+              "type": "paragraph"
+            },
+            "text": "We conducted a cross-sectional study on class attendance of undergraduate students at Hawassa University College of Medicine and Health Sciences using a self-administered questionnaire. The College of medicine and health sciences was established in 2003 and consists of three schools (Medicine; Public health and Environmental sciences; Nursing and Midwifery) and the department of Medical Laboratory Sciences with 7 undergraduate programs.",
+            "sentences": [],
+            "annotations": [],
+            "relations": []
+          },
+          {
+            "bioctype": "BioCPassage",
+            "offset": 4622,
+            "infons": {
+              "section_type": "METHODS",
+              "type": "title_2"
+            },
+            "text": "Eligibility criteria and data collection",
+            "sentences": [],
+            "annotations": [],
+            "relations": []
+          },
+          {
+            "bioctype": "BioCPassage",
+            "offset": 4663,
+            "infons": {
+              "section_type": "METHODS",
+              "type": "paragraph"
+            },
+            "text": "The study included all full-time undergraduate students who were enrolled in the college for at least one semester and gave consent to participate in the study. The questionnaire was pre-tested on part-time undergraduate health science students. In parts of the questionnaire that were found to be misleading or confusing, a slight modification was made on the wording before data collection. Data collection was done between May and June, 2013. Sealed envelopes containing the pre-tested questionnaires were distributed to study participants by trained data collection facilitators. To ensure anonymity, no identifying information was included in the questionnaire and the participants were asked to deposit the sealed envelopes in a data collection box.",
+            "sentences": [],
+            "annotations": [],
+            "relations": []
+          },
+          {
+            "bioctype": "BioCPassage",
+            "offset": 5419,
+            "infons": {
+              "section_type": "METHODS",
+              "type": "title_2"
+            },
+            "text": "Measurement of class absenteeism",
+            "sentences": [],
+            "annotations": [],
+            "relations": []
+          },
+          {
+            "bioctype": "BioCPassage",
+            "offset": 5452,
+            "infons": {
+              "section_type": "METHODS",
+              "type": "paragraph"
+            },
+            "text": "The primary outcome indicator (dependent variable) was self-reported class attendance during the preceding semester. The independent variables included student sex, age, religion, place of accommodation while at the university, type of high school completed (public or private), monthly income, parents\u2019 educational level, field of study, year of study, and reasons for missing classes.",
+            "sentences": [],
+            "annotations": [],
+            "relations": []
+          },
+          {
+            "bioctype": "BioCPassage",
+            "offset": 5841,
+            "infons": {
+              "section_type": "METHODS",
+              "type": "title_2"
+            },
+            "text": "Statistical analysis",
+            "sentences": [],
+            "annotations": [],
+            "relations": []
+          },
+          {
+            "bioctype": "BioCPassage",
+            "offset": 5862,
+            "infons": {
+              "section_type": "METHODS",
+              "type": "paragraph"
+            },
+            "text": "We conducted analysis after dichotomizing class absenteeism in three ways: never missed lectures vs. missed at least one lecture during the preceding semester; missed less than 3 lectures vs. missed 3 or more lectures in the preceding semester; and missed at least 8 lectures vs. missed more than 8 lectures in the preceding semester. The dichotomization was done to simplify the analysis and interpretation of results. The association between class absenteeism and socio-demographic and other variables was determined using bivariate and multivariate analysis model and reported as unadjusted odds ratios (OR) and adjusted odds ratios (AOR) with 95% confidence intervals (CI), respectively. After testing for colinearity and interaction, we calculated the adjusted OR (AOR) by including covariates with a p-value\u2009\u2264\u20090.1 in the multivariate analysis. All the statistical tests were two tailed and considered statistically significant for p-value\u2009<\u20090.05 and the 95% CI did not contain the number 1. The data were entered, cleaned, coded, and analyzed using SPSS version 20 software.",
+            "sentences": [],
+            "annotations": [],
+            "relations": []
+          },
+          {
+            "bioctype": "BioCPassage",
+            "offset": 6953,
+            "infons": {
+              "section_type": "METHODS",
+              "type": "title_2"
+            },
+            "text": "Ethical clearance",
+            "sentences": [],
+            "annotations": [],
+            "relations": []
+          },
+          {
+            "bioctype": "BioCPassage",
+            "offset": 6971,
+            "infons": {
+              "section_type": "METHODS",
+              "type": "paragraph"
+            },
+            "text": "Ethical clearance was obtained from Institutional review board (IRB) of Hawassa University College of Medicine and Health Sciences. We obtained written consent from each study participant, and maintained confidentiality by analyzing the data in aggregate.",
+            "sentences": [],
+            "annotations": [],
+            "relations": []
+          },
+          {
+            "bioctype": "BioCPassage",
+            "offset": 7227,
+            "infons": {
+              "section_type": "RESULTS",
+              "type": "title_1"
+            },
+            "text": "Results",
+            "sentences": [],
+            "annotations": [],
+            "relations": []
+          },
+          {
+            "bioctype": "BioCPassage",
+            "offset": 7235,
+            "infons": {
+              "section_type": "RESULTS",
+              "type": "paragraph"
+            },
+            "text": "Of the 1,366 eligible full-time undergraduate students, 1,220 (89%) consented and completed the questionnaire. The main reason for non-participation was unavailability of students in lecture halls, classrooms or dormitories during the survey due to clinical or community based attachments outside the University. The mean age of the students surveyed was 21.5\u00a0years (SD\u2009=\u20091.902\u00a0years) and the average number of students per class is 83.4 (SD\u2009=\u200946.8), with a minimum of 14 students per class and a maximum of 255 students per class. The demographic characteristic of the study participants is presented in Table\u00a01.",
+            "sentences": [],
+            "annotations": [],
+            "relations": []
+          },
+          {
+            "bioctype": "BioCPassage",
+            "offset": 7860,
+            "infons": {
+              "file": "T1.xml",
+              "id": "T1",
+              "section_type": "TABLE",
+              "type": "table_caption"
+            },
+            "text": "Baseline characteristics of students",
+            "sentences": [],
+            "annotations": [],
+            "relations": []
+          },
+          {
+            "bioctype": "BioCPassage",
+            "offset": 7897,
+            "infons": {
+              "file": "T1.xml",
+              "id": "T1",
+              "section_type": "TABLE",
+              "type": "table",
+              "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<table frame=\"hsides\" rules=\"groups\" border=\"1\"><colgroup><col align=\"left\"/><col align=\"left\"/><col align=\"left\"/><col align=\"left\"/><col align=\"left\"/><col align=\"left\"/></colgroup><thead valign=\"top\"><tr><th colspan=\"2\" align=\"left\"><bold>Socio-demographic variables</bold></th><th align=\"left\"><bold>Number of students who never missed class per semester (%)</bold></th><th align=\"left\"><bold>Number of students who had missed class 1 to 3 times per semester (%)</bold></th><th align=\"left\"><bold>Number of students who had missed class 4 times and above per semester (%)</bold></th><th align=\"left\"><bold>Total</bold></th></tr></thead><tbody valign=\"top\"><tr><td rowspan=\"2\" align=\"left\" valign=\"top\">Sex<hr/></td><td align=\"left\" valign=\"bottom\">Male<hr/></td><td align=\"left\" valign=\"bottom\">248 (25.8)<hr/></td><td align=\"left\" valign=\"bottom\">376 (39.2)<hr/></td><td align=\"left\" valign=\"bottom\">336 (35.0)<hr/></td><td align=\"left\" valign=\"bottom\">960 (78.8%)<hr/></td></tr><tr><td align=\"left\" valign=\"bottom\">Female<hr/></td><td align=\"left\" valign=\"bottom\">51 (19.7)<hr/></td><td align=\"left\" valign=\"bottom\">107 (41.3)<hr/></td><td align=\"left\" valign=\"bottom\">101 (39.0)<hr/></td><td align=\"left\" valign=\"bottom\">259 (21.2%)<hr/></td></tr><tr><td rowspan=\"2\" align=\"left\" valign=\"top\">Where they grew up<hr/></td><td align=\"left\" valign=\"bottom\">Urban area<hr/></td><td align=\"left\" valign=\"bottom\">137 (20.1)<hr/></td><td align=\"left\" valign=\"bottom\">247 (36.2)<hr/></td><td align=\"left\" valign=\"bottom\">299 (43.8)<hr/></td><td align=\"left\" valign=\"bottom\">683 (57.7%)<hr/></td></tr><tr><td align=\"left\" valign=\"bottom\">Rural area<hr/></td><td align=\"left\" valign=\"bottom\">150 (29.9)<hr/></td><td align=\"left\" valign=\"bottom\">220 (43.9)<hr/></td><td align=\"left\" valign=\"bottom\">131 (26.1)<hr/></td><td align=\"left\" valign=\"bottom\">501 (42.3%)<hr/></td></tr><tr><td rowspan=\"4\" align=\"left\" valign=\"top\">Religion<hr/></td><td align=\"left\" valign=\"bottom\">Orthodox<hr/></td><td align=\"left\" valign=\"bottom\">174 (24.6)<hr/></td><td align=\"left\" valign=\"bottom\">280 (39.5)<hr/></td><td align=\"left\" valign=\"bottom\">254 (35.9)<hr/></td><td align=\"left\" valign=\"bottom\">708 (58.4%)<hr/></td></tr><tr><td align=\"left\" valign=\"bottom\">Protestant<hr/></td><td align=\"left\" valign=\"bottom\">88 (27.4)<hr/></td><td align=\"left\" valign=\"bottom\">127 (39.6)<hr/></td><td align=\"left\" valign=\"bottom\">106 (33.0)<hr/></td><td align=\"left\" valign=\"bottom\">321 (26.4%)<hr/></td></tr><tr><td align=\"left\" valign=\"bottom\">Muslim<hr/></td><td align=\"left\" valign=\"bottom\">23 (16.9)<hr/></td><td align=\"left\" valign=\"bottom\">60 (44.1)<hr/></td><td align=\"left\" valign=\"bottom\">53 (39.0)<hr/></td><td align=\"left\" valign=\"bottom\">136 (11.2%)<hr/></td></tr><tr><td align=\"left\" valign=\"bottom\">Other<hr/></td><td align=\"left\" valign=\"bottom\">9 (18.8)<hr/></td><td align=\"left\" valign=\"bottom\">16 (33.3)<hr/></td><td align=\"left\" valign=\"bottom\">23 (47.9)<hr/></td><td align=\"left\" valign=\"bottom\">48 (4%)<hr/></td></tr><tr><td rowspan=\"3\" align=\"left\" valign=\"top\">High school<hr/></td><td align=\"left\" valign=\"bottom\">Public school<hr/></td><td align=\"left\" valign=\"bottom\">263 (27.6)<hr/></td><td align=\"left\" valign=\"bottom\">389 (40.8)<hr/></td><td align=\"left\" valign=\"bottom\">301 (31.6)<hr/></td><td align=\"left\" valign=\"bottom\">953 (79.1%)<hr/></td></tr><tr><td align=\"left\" valign=\"bottom\">Private school<hr/></td><td align=\"left\" valign=\"bottom\">24 (10.6)<hr/></td><td align=\"left\" valign=\"bottom\">87 (38.3)<hr/></td><td align=\"left\" valign=\"bottom\">116 (51.1)<hr/></td><td align=\"left\" valign=\"bottom\">227 (18.8%)<hr/></td></tr><tr><td align=\"left\" valign=\"bottom\">Missionary school<hr/></td><td align=\"left\" valign=\"bottom\">6 (23.1)<hr/></td><td align=\"left\" valign=\"bottom\">3 (11.5)<hr/></td><td align=\"left\" valign=\"bottom\">17 (65.4)<hr/></td><td align=\"left\" valign=\"bottom\">26 (2.2%)<hr/></td></tr><tr><td rowspan=\"5\" align=\"left\" valign=\"top\">University entrance examination score range<hr/></td><td align=\"left\" valign=\"bottom\">Excellent<hr/></td><td align=\"left\" valign=\"bottom\">42 (17.4)<hr/></td><td align=\"left\" valign=\"bottom\">89 (36.8)<hr/></td><td align=\"left\" valign=\"bottom\">111 (45.9)<hr/></td><td align=\"left\" valign=\"bottom\">242 (21.5%)<hr/></td></tr><tr><td align=\"left\" valign=\"bottom\">Very good<hr/></td><td align=\"left\" valign=\"bottom\">140 (26.6)<hr/></td><td align=\"left\" valign=\"bottom\">215 (40.8)<hr/></td><td align=\"left\" valign=\"bottom\">172 (32.6)<hr/></td><td align=\"left\" valign=\"bottom\">527 (47%)<hr/></td></tr><tr><td align=\"left\" valign=\"bottom\">Good<hr/></td><td align=\"left\" valign=\"bottom\">83 (25.9)<hr/></td><td align=\"left\" valign=\"bottom\">141 (43.9)<hr/></td><td align=\"left\" valign=\"bottom\">97 (30.2)<hr/></td><td align=\"left\" valign=\"bottom\">321 (28.5%)<hr/></td></tr><tr><td align=\"left\" valign=\"bottom\">Fair<hr/></td><td align=\"left\" valign=\"bottom\">6 (27.3)<hr/></td><td align=\"left\" valign=\"bottom\">8 (36.4)<hr/></td><td align=\"left\" valign=\"bottom\">8 (36.4)<hr/></td><td align=\"left\" valign=\"bottom\">22 (2%)<hr/></td></tr><tr><td align=\"left\" valign=\"bottom\">Poor<hr/></td><td align=\"left\" valign=\"bottom\">3 (25.0)<hr/></td><td align=\"left\" valign=\"bottom\">2 (16.7)<hr/></td><td align=\"left\" valign=\"bottom\">7 (58.3)<hr/></td><td align=\"left\" valign=\"bottom\">12 (1%)<hr/></td></tr><tr><td rowspan=\"5\" align=\"left\" valign=\"top\">Students mother education level<hr/></td><td align=\"left\" valign=\"bottom\">No education<hr/></td><td align=\"left\" valign=\"bottom\">112 (27.3)<hr/></td><td align=\"left\" valign=\"bottom\">181 (44.0)<hr/></td><td align=\"left\" valign=\"bottom\">118 (28.7)<hr/></td><td align=\"left\" valign=\"bottom\">411 (34.4%)<hr/></td></tr><tr><td align=\"left\" valign=\"bottom\">Primary<hr/></td><td align=\"left\" valign=\"bottom\">90 (27.2)<hr/></td><td align=\"left\" valign=\"bottom\">130 (39.3)<hr/></td><td align=\"left\" valign=\"bottom\">111 (33.5)<hr/></td><td align=\"left\" valign=\"bottom\">331 (27.7%)<hr/></td></tr><tr><td align=\"left\" valign=\"bottom\">Secondary<hr/></td><td align=\"left\" valign=\"bottom\">44 (22.0)<hr/></td><td align=\"left\" valign=\"bottom\">75 (37.5)<hr/></td><td align=\"left\" valign=\"bottom\">81 (40.5)<hr/></td><td align=\"left\" valign=\"bottom\">200 (16.7%)<hr/></td></tr><tr><td align=\"left\" valign=\"bottom\">Diploma<hr/></td><td align=\"left\" valign=\"bottom\">24 (15.8)<hr/></td><td align=\"left\" valign=\"bottom\">50 (32.9)<hr/></td><td align=\"left\" valign=\"bottom\">78 (51.3)<hr/></td><td align=\"left\" valign=\"bottom\">152 (12.6%)<hr/></td></tr><tr><td align=\"left\" valign=\"bottom\">Degree<hr/></td><td align=\"left\" valign=\"bottom\">21 (20.6)<hr/></td><td align=\"left\" valign=\"bottom\">40 (39.2)<hr/></td><td align=\"left\" valign=\"bottom\">41 (40.2)<hr/></td><td align=\"left\" valign=\"bottom\">102 (8.5%)<hr/></td></tr><tr><td rowspan=\"5\" align=\"left\" valign=\"top\">Student\u2019s father education level<hr/></td><td align=\"left\" valign=\"bottom\">No education<hr/></td><td align=\"left\" valign=\"bottom\">82 (27.2)<hr/></td><td align=\"left\" valign=\"bottom\">132 (43.9)<hr/></td><td align=\"left\" valign=\"bottom\">87 (28.9)<hr/></td><td align=\"left\" valign=\"bottom\">301 (25.2%)<hr/></td></tr><tr><td align=\"left\" valign=\"bottom\">Primary<hr/></td><td align=\"left\" valign=\"bottom\">84 (28.7)<hr/></td><td align=\"left\" valign=\"bottom\">121 (41.3)<hr/></td><td align=\"left\" valign=\"bottom\">88 (30.0)<hr/></td><td align=\"left\" valign=\"bottom\">293 (24.5%)<hr/></td></tr><tr><td align=\"left\" valign=\"bottom\">Secondary<hr/></td><td align=\"left\" valign=\"bottom\">44 (23.0)<hr/></td><td align=\"left\" valign=\"bottom\">83 (43.5)<hr/></td><td align=\"left\" valign=\"bottom\">64 (33.5)<hr/></td><td align=\"left\" valign=\"bottom\">191 (16%)<hr/></td></tr><tr><td align=\"left\" valign=\"bottom\">Diploma<hr/></td><td align=\"left\" valign=\"bottom\">35 (20.3)<hr/></td><td align=\"left\" valign=\"bottom\">59 (34.3)<hr/></td><td align=\"left\" valign=\"bottom\">78 (45.3)<hr/></td><td align=\"left\" valign=\"bottom\">172 (14.3%)<hr/></td></tr><tr><td align=\"left\" valign=\"bottom\">Degree<hr/></td><td align=\"left\" valign=\"bottom\">45 (18.8)<hr/></td><td align=\"left\" valign=\"bottom\">86 (36.0)<hr/></td><td align=\"left\" valign=\"bottom\">108 (45.2)<hr/></td><td align=\"left\" valign=\"bottom\">239 (20%)<hr/></td></tr><tr><td rowspan=\"3\" align=\"left\" valign=\"top\">Current residence<hr/></td><td align=\"left\" valign=\"bottom\">In the university\u2019s dormitory<hr/></td><td align=\"left\" valign=\"bottom\">271 (24.2)<hr/></td><td align=\"left\" valign=\"bottom\">452 (40.3)<hr/></td><td align=\"left\" valign=\"bottom\">398 (35.5)<hr/></td><td align=\"left\" valign=\"bottom\">1121 (92.6%)<hr/></td></tr><tr><td align=\"left\" valign=\"bottom\">Outside the campus at rental house<hr/></td><td align=\"left\" valign=\"bottom\">19 (33.9)<hr/></td><td align=\"left\" valign=\"bottom\">21 (37.5)<hr/></td><td align=\"left\" valign=\"bottom\">16 (28.6)<hr/></td><td align=\"left\" valign=\"bottom\">56 (4.6%)<hr/></td></tr><tr><td align=\"left\" valign=\"bottom\">Outside the campus with family<hr/></td><td align=\"left\" valign=\"bottom\">7 (21.2)<hr/></td><td align=\"left\" valign=\"bottom\">9 (27.3)<hr/></td><td align=\"left\" valign=\"bottom\">17 (51.5)<hr/></td><td align=\"left\" valign=\"bottom\">33 (2.7%)<hr/></td></tr><tr><td rowspan=\"5\" align=\"left\" valign=\"top\">Money they get monthly from family or relatives<hr/></td><td align=\"left\" valign=\"bottom\">Less than 100 birr<hr/></td><td align=\"left\" valign=\"bottom\">36 (31.6)<hr/></td><td align=\"left\" valign=\"bottom\">49 (43.0)<hr/></td><td align=\"left\" valign=\"bottom\">29 (25.4)<hr/></td><td align=\"left\" valign=\"bottom\">114 (9.6%)<hr/></td></tr><tr><td align=\"left\" valign=\"bottom\">100-200 birr<hr/></td><td align=\"left\" valign=\"bottom\">56 (25.9)<hr/></td><td align=\"left\" valign=\"bottom\">104 (48.1)<hr/></td><td align=\"left\" valign=\"bottom\">56 (25.9)<hr/></td><td align=\"left\" valign=\"bottom\">216 (18.1%)<hr/></td></tr><tr><td align=\"left\" valign=\"bottom\">200-300 birr<hr/></td><td align=\"left\" valign=\"bottom\">80 (29.6)<hr/></td><td align=\"left\" valign=\"bottom\">105 (38.9)<hr/></td><td align=\"left\" valign=\"bottom\">85 (31.5)<hr/></td><td align=\"left\" valign=\"bottom\">270 (22.6%)<hr/></td></tr><tr><td align=\"left\" valign=\"bottom\">300-500 birr<hr/></td><td align=\"left\" valign=\"bottom\">96 (23.2)<hr/></td><td align=\"left\" valign=\"bottom\">164 (39.7)<hr/></td><td align=\"left\" valign=\"bottom\">153 (37.1)<hr/></td><td align=\"left\" valign=\"bottom\">413 (34.6%)<hr/></td></tr><tr><td align=\"left\" valign=\"bottom\">More than 500 birr<hr/></td><td align=\"left\" valign=\"bottom\">26 (14.4)<hr/></td><td align=\"left\" valign=\"bottom\">56 (31.1)<hr/></td><td align=\"left\" valign=\"bottom\">98 (54.4)<hr/></td><td align=\"left\" valign=\"bottom\">180 (15.1%)<hr/></td></tr><tr><td rowspan=\"2\" align=\"left\" valign=\"top\">Place to have meal<hr/></td><td align=\"left\" valign=\"bottom\">At the university\u2019s cafeteria (cafe)<hr/></td><td align=\"left\" valign=\"bottom\">258 (26.6)<hr/></td><td align=\"left\" valign=\"bottom\">391 (40.3)<hr/></td><td align=\"left\" valign=\"bottom\">321 (33.1)<hr/></td><td align=\"left\" valign=\"bottom\">970 (80.4%)<hr/></td></tr><tr><td align=\"left\" valign=\"bottom\">Non-caf\u00e9<hr/></td><td align=\"left\" valign=\"bottom\">38 (16.1)<hr/></td><td align=\"left\" valign=\"bottom\">89 (37.7)<hr/></td><td align=\"left\" valign=\"bottom\">109 (46.2)<hr/></td><td align=\"left\" valign=\"bottom\">236 (19.6%)<hr/></td></tr><tr><td rowspan=\"7\" align=\"left\" valign=\"top\">Field of study<hr/></td><td align=\"left\" valign=\"bottom\">Medicine<hr/></td><td align=\"left\" valign=\"bottom\">41 (9.6)<hr/></td><td align=\"left\" valign=\"bottom\">131 (30.8)<hr/></td><td align=\"left\" valign=\"bottom\">253 (59.5)<hr/></td><td align=\"left\" valign=\"bottom\">425 (35.1%)<hr/></td></tr><tr><td align=\"left\" valign=\"bottom\">Nursing<hr/></td><td align=\"left\" valign=\"bottom\">58 (30.7)<hr/></td><td align=\"left\" valign=\"bottom\">90 (47.6)<hr/></td><td align=\"left\" valign=\"bottom\">41 (21.7)<hr/></td><td align=\"left\" valign=\"bottom\">189 (15.7%)<hr/></td></tr><tr><td align=\"left\" valign=\"bottom\">Midwifery<hr/></td><td align=\"left\" valign=\"bottom\">38 (31.4)<hr/></td><td align=\"left\" valign=\"bottom\">55 (45.5)<hr/></td><td align=\"left\" valign=\"bottom\">28 (23.1)<hr/></td><td align=\"left\" valign=\"bottom\">121 (10%)<hr/></td></tr><tr><td align=\"left\" valign=\"bottom\">Medical laboratory technology<hr/></td><td align=\"left\" valign=\"bottom\">36 (37.5)<hr/></td><td align=\"left\" valign=\"bottom\">39 (40.6)<hr/></td><td align=\"left\" valign=\"bottom\">21 (21.9)<hr/></td><td align=\"left\" valign=\"bottom\">96 (8%)<hr/></td></tr><tr><td align=\"left\" valign=\"bottom\">Health officer<hr/></td><td align=\"left\" valign=\"bottom\">97 (34.6)<hr/></td><td align=\"left\" valign=\"bottom\">117 (41.8)<hr/></td><td align=\"left\" valign=\"bottom\">66 (23.6)<hr/></td><td align=\"left\" valign=\"bottom\">280 (23.2%)<hr/></td></tr><tr><td align=\"left\" valign=\"bottom\">Optometry<hr/></td><td align=\"left\" valign=\"bottom\">15 (24.2)<hr/></td><td align=\"left\" valign=\"bottom\">30 (48.4)<hr/></td><td align=\"left\" valign=\"bottom\">17 (27.4)<hr/></td><td align=\"left\" valign=\"bottom\">62 (5.1%)<hr/></td></tr><tr><td align=\"left\" valign=\"bottom\">Environmental<hr/></td><td align=\"left\" valign=\"bottom\">11 (31.4)<hr/></td><td align=\"left\" valign=\"bottom\">20 (57.1)<hr/></td><td align=\"left\" valign=\"bottom\">4 (11.4)<hr/></td><td align=\"left\" valign=\"bottom\">35 (2.9%)<hr/></td></tr><tr><td rowspan=\"2\" align=\"left\" valign=\"top\">Joined the field of study as per choice<hr/></td><td align=\"left\" valign=\"bottom\">Yes<hr/></td><td align=\"left\" valign=\"bottom\">202 (23.5)<hr/></td><td align=\"left\" valign=\"bottom\">334 (38.8)<hr/></td><td align=\"left\" valign=\"bottom\">325 (37.7)<hr/></td><td align=\"left\" valign=\"bottom\">861 (70.5%)<hr/></td></tr><tr><td align=\"left\" valign=\"bottom\">No<hr/></td><td align=\"left\" valign=\"bottom\">96 (27.4)<hr/></td><td align=\"left\" valign=\"bottom\">149 (42.5)<hr/></td><td align=\"left\" valign=\"bottom\">106 (30.2)<hr/></td><td align=\"left\" valign=\"bottom\">351 (29.5%)<hr/></td></tr><tr><td rowspan=\"2\" align=\"left\" valign=\"top\">Like their field of study<hr/></td><td align=\"left\" valign=\"bottom\">Yes<hr/></td><td align=\"left\" valign=\"bottom\">229 (25.3)<hr/></td><td align=\"left\" valign=\"bottom\">363 (40.1)<hr/></td><td align=\"left\" valign=\"bottom\">313 (34.6)<hr/></td><td align=\"left\" valign=\"bottom\">905 (75%)<hr/></td></tr><tr><td align=\"left\" valign=\"bottom\">No<hr/></td><td align=\"left\" valign=\"bottom\">67 (22.1)<hr/></td><td align=\"left\" valign=\"bottom\">118 (38.9)<hr/></td><td align=\"left\" valign=\"bottom\">118 (38.9)<hr/></td><td align=\"left\" valign=\"bottom\">303 (25%)<hr/></td></tr><tr><td rowspan=\"5\" align=\"left\" valign=\"top\">Year of study<hr/></td><td align=\"left\" valign=\"bottom\">1st year<hr/></td><td align=\"left\" valign=\"bottom\">51 (37.2)<hr/></td><td align=\"left\" valign=\"bottom\">70 (51.1)<hr/></td><td align=\"left\" valign=\"bottom\">16 (11.7)<hr/></td><td align=\"left\" valign=\"bottom\">137 (11.3%)<hr/></td></tr><tr><td align=\"left\" valign=\"bottom\">2nd year<hr/></td><td align=\"left\" valign=\"bottom\">86 (24.1)<hr/></td><td align=\"left\" valign=\"bottom\">167 (46.8)<hr/></td><td align=\"left\" valign=\"bottom\">104 (29.1)<hr/></td><td align=\"left\" valign=\"bottom\">357 (29.4%)<hr/></td></tr><tr><td align=\"left\" valign=\"bottom\">3rd year<hr/></td><td align=\"left\" valign=\"bottom\">66 (23.2)<hr/></td><td align=\"left\" valign=\"bottom\">111 (38.9)<hr/></td><td align=\"left\" valign=\"bottom\">108 (37.9)<hr/></td><td align=\"left\" valign=\"bottom\">285 (23.4%)<hr/></td></tr><tr><td align=\"left\" valign=\"bottom\">4th year<hr/></td><td align=\"left\" valign=\"bottom\">83 (23.6)<hr/></td><td align=\"left\" valign=\"bottom\">109 (31.1)<hr/></td><td align=\"left\" valign=\"bottom\">159 (45.3)<hr/></td><td align=\"left\" valign=\"bottom\">351 (28.9%)<hr/></td></tr><tr><td align=\"left\" valign=\"bottom\">5th year<hr/></td><td align=\"left\" valign=\"bottom\">13 (14.9)<hr/></td><td align=\"left\" valign=\"bottom\">26 (29.9)<hr/></td><td align=\"left\" valign=\"bottom\">48 (55.2)<hr/></td><td align=\"left\" valign=\"bottom\">87 (7.2%)<hr/></td></tr><tr><td rowspan=\"5\" align=\"left\" valign=\"top\">Social drug use<hr/></td><td align=\"left\" valign=\"bottom\">Khat<hr/></td><td align=\"left\" valign=\"bottom\">13 (19.4)<hr/></td><td align=\"left\" valign=\"bottom\">25 (37.3)<hr/></td><td align=\"left\" valign=\"bottom\">29 (43.3)<hr/></td><td align=\"left\" valign=\"bottom\">67 (5.7%)<hr/></td></tr><tr><td align=\"left\" valign=\"bottom\">Cigarette<hr/></td><td align=\"left\" valign=\"bottom\">5 (26.3)<hr/></td><td align=\"left\" valign=\"bottom\">3 (15.8)<hr/></td><td align=\"left\" valign=\"bottom\">11 (57.9)<hr/></td><td align=\"left\" valign=\"bottom\">19 (1.6%)<hr/></td></tr><tr><td align=\"left\" valign=\"bottom\">Shisha<hr/></td><td align=\"left\" valign=\"bottom\">2 (15.4)<hr/></td><td align=\"left\" valign=\"bottom\">0 (0.0)<hr/></td><td align=\"left\" valign=\"bottom\">11 (84.6)<hr/></td><td align=\"left\" valign=\"bottom\">13 (1.1%)<hr/></td></tr><tr><td align=\"left\" valign=\"bottom\">Alcohol<hr/></td><td align=\"left\" valign=\"bottom\">11 (23.9)<hr/></td><td align=\"left\" valign=\"bottom\">19 (41.3)<hr/></td><td align=\"left\" valign=\"bottom\">16 (34.8)<hr/></td><td align=\"left\" valign=\"bottom\">46 (3.9%)<hr/></td></tr><tr><td align=\"left\" valign=\"bottom\">Marijuana/hashish<hr/></td><td align=\"left\" valign=\"bottom\">1 (8.3)<hr/></td><td align=\"left\" valign=\"bottom\">2 (16.7)<hr/></td><td align=\"left\" valign=\"bottom\">9 (75.0)<hr/></td><td align=\"left\" valign=\"bottom\">12 (1%)<hr/></td></tr><tr><td align=\"left\">\u00a0</td><td align=\"left\">Never used</td><td align=\"left\">256 (25.4)</td><td align=\"left\">420 (41.6)</td><td align=\"left\">333 (33.0)</td><td align=\"left\">1009 (86.5%)</td></tr></tbody></table>\n"
+            },
+            "text": "Socio-demographic variables\tNumber of students who never missed class per semester (%)\tNumber of students who had missed class 1 to 3 times per semester (%)\tNumber of students who had missed class 4 times and above per semester (%)\tTotal\t \tSex\tMale\t248 (25.8)\t376 (39.2)\t336 (35.0)\t960 (78.8%)\t \tFemale\t51 (19.7)\t107 (41.3)\t101 (39.0)\t259 (21.2%)\t \tWhere they grew up\tUrban area\t137 (20.1)\t247 (36.2)\t299 (43.8)\t683 (57.7%)\t \tRural area\t150 (29.9)\t220 (43.9)\t131 (26.1)\t501 (42.3%)\t \tReligion\tOrthodox\t174 (24.6)\t280 (39.5)\t254 (35.9)\t708 (58.4%)\t \tProtestant\t88 (27.4)\t127 (39.6)\t106 (33.0)\t321 (26.4%)\t \tMuslim\t23 (16.9)\t60 (44.1)\t53 (39.0)\t136 (11.2%)\t \tOther\t9 (18.8)\t16 (33.3)\t23 (47.9)\t48 (4%)\t \tHigh school\tPublic school\t263 (27.6)\t389 (40.8)\t301 (31.6)\t953 (79.1%)\t \tPrivate school\t24 (10.6)\t87 (38.3)\t116 (51.1)\t227 (18.8%)\t \tMissionary school\t6 (23.1)\t3 (11.5)\t17 (65.4)\t26 (2.2%)\t \tUniversity entrance examination score range\tExcellent\t42 (17.4)\t89 (36.8)\t111 (45.9)\t242 (21.5%)\t \tVery good\t140 (26.6)\t215 (40.8)\t172 (32.6)\t527 (47%)\t \tGood\t83 (25.9)\t141 (43.9)\t97 (30.2)\t321 (28.5%)\t \tFair\t6 (27.3)\t8 (36.4)\t8 (36.4)\t22 (2%)\t \tPoor\t3 (25.0)\t2 (16.7)\t7 (58.3)\t12 (1%)\t \tStudents mother education level\tNo education\t112 (27.3)\t181 (44.0)\t118 (28.7)\t411 (34.4%)\t \tPrimary\t90 (27.2)\t130 (39.3)\t111 (33.5)\t331 (27.7%)\t \tSecondary\t44 (22.0)\t75 (37.5)\t81 (40.5)\t200 (16.7%)\t \tDiploma\t24 (15.8)\t50 (32.9)\t78 (51.3)\t152 (12.6%)\t \tDegree\t21 (20.6)\t40 (39.2)\t41 (40.2)\t102 (8.5%)\t \tStudent\u2019s father education level\tNo education\t82 (27.2)\t132 (43.9)\t87 (28.9)\t301 (25.2%)\t \tPrimary\t84 (28.7)\t121 (41.3)\t88 (30.0)\t293 (24.5%)\t \tSecondary\t44 (23.0)\t83 (43.5)\t64 (33.5)\t191 (16%)\t \tDiploma\t35 (20.3)\t59 (34.3)\t78 (45.3)\t172 (14.3%)\t \tDegree\t45 (18.8)\t86 (36.0)\t108 (45.2)\t239 (20%)\t \tCurrent residence\tIn the university\u2019s dormitory\t271 (24.2)\t452 (40.3)\t398 (35.5)\t1121 (92.6%)\t \tOutside the campus at rental house\t19 (33.9)\t21 (37.5)\t16 (28.6)\t56 (4.6%)\t \tOutside the campus with family\t7 (21.2)\t9 (27.3)\t17 (51.5)\t33 (2.7%)\t \tMoney they get monthly from family or relatives\tLess than 100 birr\t36 (31.6)\t49 (43.0)\t29 (25.4)\t114 (9.6%)\t \t100-200 birr\t56 (25.9)\t104 (48.1)\t56 (25.9)\t216 (18.1%)\t \t200-300 birr\t80 (29.6)\t105 (38.9)\t85 (31.5)\t270 (22.6%)\t \t300-500 birr\t96 (23.2)\t164 (39.7)\t153 (37.1)\t413 (34.6%)\t \tMore than 500 birr\t26 (14.4)\t56 (31.1)\t98 (54.4)\t180 (15.1%)\t \tPlace to have meal\tAt the university\u2019s cafeteria (cafe)\t258 (26.6)\t391 (40.3)\t321 (33.1)\t970 (80.4%)\t \tNon-caf\u00e9\t38 (16.1)\t89 (37.7)\t109 (46.2)\t236 (19.6%)\t \tField of study\tMedicine\t41 (9.6)\t131 (30.8)\t253 (59.5)\t425 (35.1%)\t \tNursing\t58 (30.7)\t90 (47.6)\t41 (21.7)\t189 (15.7%)\t \tMidwifery\t38 (31.4)\t55 (45.5)\t28 (23.1)\t121 (10%)\t \tMedical laboratory technology\t36 (37.5)\t39 (40.6)\t21 (21.9)\t96 (8%)\t \tHealth officer\t97 (34.6)\t117 (41.8)\t66 (23.6)\t280 (23.2%)\t \tOptometry\t15 (24.2)\t30 (48.4)\t17 (27.4)\t62 (5.1%)\t \tEnvironmental\t11 (31.4)\t20 (57.1)\t4 (11.4)\t35 (2.9%)\t \tJoined the field of study as per choice\tYes\t202 (23.5)\t334 (38.8)\t325 (37.7)\t861 (70.5%)\t \tNo\t96 (27.4)\t149 (42.5)\t106 (30.2)\t351 (29.5%)\t \tLike their field of study\tYes\t229 (25.3)\t363 (40.1)\t313 (34.6)\t905 (75%)\t \tNo\t67 (22.1)\t118 (38.9)\t118 (38.9)\t303 (25%)\t \tYear of study\t1st year\t51 (37.2)\t70 (51.1)\t16 (11.7)\t137 (11.3%)\t \t2nd year\t86 (24.1)\t167 (46.8)\t104 (29.1)\t357 (29.4%)\t \t3rd year\t66 (23.2)\t111 (38.9)\t108 (37.9)\t285 (23.4%)\t \t4th year\t83 (23.6)\t109 (31.1)\t159 (45.3)\t351 (28.9%)\t \t5th year\t13 (14.9)\t26 (29.9)\t48 (55.2)\t87 (7.2%)\t \tSocial drug use\tKhat\t13 (19.4)\t25 (37.3)\t29 (43.3)\t67 (5.7%)\t \tCigarette\t5 (26.3)\t3 (15.8)\t11 (57.9)\t19 (1.6%)\t \tShisha\t2 (15.4)\t0 (0.0)\t11 (84.6)\t13 (1.1%)\t \tAlcohol\t11 (23.9)\t19 (41.3)\t16 (34.8)\t46 (3.9%)\t \tMarijuana/hashish\t1 (8.3)\t2 (16.7)\t9 (75.0)\t12 (1%)\t \t\u00a0\tNever used\t256 (25.4)\t420 (41.6)\t333 (33.0)\t1009 (86.5%)\t \t",
+            "sentences": [],
+            "annotations": [],
+            "relations": []
+          },
+          {
+            "bioctype": "BioCPassage",
+            "offset": 11715,
+            "infons": {
+              "section_type": "RESULTS",
+              "type": "paragraph"
+            },
+            "text": "Of the students who participated in the study, 75% had missed one or more classes and 45% had missed three or more classes in the preceding semester. The odds of students who missed at least one class in the preceding semester and who had grown up in rural area was 40% less than students who had grown up in urban areas (OR = 0.6; 95% CI, 0.45 to 0.77). In the multivariate analysis, there was no association between student\u2019s age, sex, religion, and father\u2019s education level and missing at least one class in the preceding semester (Table\u00a02). On the other hand, we noted an association between mother\u2019s education level and absenteeism with the odds of missing one or more classes per semester being 76% less in students whose mother had a university degree (adjusted OR = 0.26, 95% CI = 0.09-0.75) as compared to those whose mother was illiterate (Table\u00a02).",
+            "sentences": [],
+            "annotations": [],
+            "relations": []
+          },
+          {
+            "bioctype": "BioCPassage",
+            "offset": 12583,
+            "infons": {
+              "file": "T2.xml",
+              "id": "T2",
+              "section_type": "TABLE",
+              "type": "table_caption"
+            },
+            "text": "Odds ratio of variables (never missed class vs. missed at least once per semester)",
+            "sentences": [],
+            "annotations": [],
+            "relations": []
+          },
+          {
+            "bioctype": "BioCPassage",
+            "offset": 12666,
+            "infons": {
+              "file": "T2.xml",
+              "id": "T2",
+              "section_type": "TABLE",
+              "type": "table",
+              "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<table frame=\"hsides\" rules=\"groups\" border=\"1\"><colgroup><col align=\"left\"/><col align=\"left\"/><col align=\"left\"/><col align=\"left\"/><col align=\"left\"/><col align=\"left\"/></colgroup><thead valign=\"top\"><tr><th colspan=\"2\" align=\"left\"><bold>Variables</bold></th><th align=\"left\"><bold>P-value</bold></th><th align=\"left\"><bold>Unadjusted ORs (95% CI)</bold></th><th align=\"left\"><bold>P-value</bold></th><th align=\"left\"><bold>AOR (95% CI)</bold></th></tr></thead><tbody valign=\"top\"><tr><td rowspan=\"2\" align=\"left\" valign=\"top\">Sex<hr/></td><td align=\"left\" valign=\"bottom\">Male (ref)<hr/></td><td align=\"left\" valign=\"bottom\">\u00a0<hr/></td><td align=\"left\" valign=\"bottom\">\u00a0<hr/></td><td align=\"left\" valign=\"bottom\">\u00a0<hr/></td><td align=\"left\" valign=\"bottom\">\u00a0<hr/></td></tr><tr><td align=\"left\" valign=\"bottom\">Female<hr/></td><td align=\"left\" valign=\"bottom\">0.042<hr/></td><td align=\"left\" valign=\"bottom\">1.42 (1.013, 1.993)<hr/></td><td align=\"left\" valign=\"bottom\">0.846<hr/></td><td align=\"left\" valign=\"bottom\">1.06 (0.594, 1.889)<hr/></td></tr><tr><td rowspan=\"2\" align=\"left\" valign=\"top\">Grown up<hr/></td><td align=\"left\" valign=\"bottom\">Urban (ref)<hr/></td><td align=\"left\" valign=\"bottom\">\u00a0<hr/></td><td align=\"left\" valign=\"bottom\">\u00a0<hr/></td><td align=\"left\" valign=\"bottom\">\u00a0<hr/></td><td align=\"left\" valign=\"bottom\">\u00a0<hr/></td></tr><tr><td align=\"left\" valign=\"bottom\">Rural<hr/></td><td align=\"left\" valign=\"bottom\">&lt;0.0001<hr/></td><td align=\"left\" valign=\"bottom\">0.59 (.449, 0.767)<hr/></td><td align=\"left\" valign=\"bottom\">0.20<hr/></td><td align=\"left\" valign=\"bottom\">0.750 (0.483, 1.164)<hr/></td></tr><tr><td rowspan=\"4\" align=\"left\" valign=\"top\">Religion<hr/></td><td align=\"left\" valign=\"bottom\">Orthodox (ref)<hr/></td><td align=\"left\" valign=\"bottom\">\u00a0<hr/></td><td align=\"left\" valign=\"bottom\">\u00a0<hr/></td><td align=\"left\" valign=\"bottom\">\u00a0<hr/></td><td align=\"left\" valign=\"bottom\">\u00a0<hr/></td></tr><tr><td align=\"left\" valign=\"bottom\">Protestant<hr/></td><td align=\"left\" valign=\"bottom\">0.333<hr/></td><td align=\"left\" valign=\"bottom\">0.86 (0.640, 1.163)<hr/></td><td align=\"left\" valign=\"bottom\">0.439<hr/></td><td align=\"left\" valign=\"bottom\">0.84 (0.544, 1.303)<hr/></td></tr><tr><td align=\"left\" valign=\"bottom\">Muslim<hr/></td><td align=\"left\" valign=\"bottom\">0.055<hr/></td><td align=\"left\" valign=\"bottom\">1.60 (0.991, 2.587)<hr/></td><td align=\"left\" valign=\"bottom\">0.225<hr/></td><td align=\"left\" valign=\"bottom\">1.51 (0.775, 2.951)<hr/></td></tr><tr><td align=\"left\" valign=\"bottom\">Other religion<hr/></td><td align=\"left\" valign=\"bottom\">0.364<hr/></td><td align=\"left\" valign=\"bottom\">1.41 (0.671, 2.973)<hr/></td><td align=\"left\" valign=\"bottom\">0.834<hr/></td><td align=\"left\" valign=\"bottom\">0.89 (0.304, 2.612)<hr/></td></tr><tr><td rowspan=\"3\" align=\"left\" valign=\"top\">High school<hr/></td><td align=\"left\" valign=\"bottom\">Governmental or public (ref)<hr/></td><td align=\"left\" valign=\"bottom\">\u00a0<hr/></td><td align=\"left\" valign=\"bottom\">\u00a0<hr/></td><td align=\"left\" valign=\"bottom\">\u00a0<hr/></td><td align=\"left\" valign=\"bottom\">\u00a0<hr/></td></tr><tr><td align=\"left\" valign=\"bottom\">Private<hr/></td><td align=\"left\" valign=\"bottom\">&lt;0.0001<hr/></td><td align=\"left\" valign=\"bottom\">3.22 (2.063, 5.037)<hr/></td><td align=\"left\" valign=\"bottom\"><bold>0.010</bold><hr/></td><td align=\"left\" valign=\"bottom\">2.49 (1.246, 4.959)<hr/></td></tr><tr><td align=\"left\" valign=\"bottom\">Missionary<hr/></td><td align=\"left\" valign=\"bottom\">0.611<hr/></td><td align=\"left\" valign=\"bottom\">1.27 (0.505, 3.199)<hr/></td><td align=\"left\" valign=\"bottom\">0.995<hr/></td><td align=\"left\" valign=\"bottom\">1.00 (0.219, 4.517)<hr/></td></tr><tr><td rowspan=\"5\" align=\"left\" valign=\"top\">University entrance examination score range<hr/></td><td align=\"left\" valign=\"bottom\">Excellent (ref)<hr/></td><td align=\"left\" valign=\"bottom\">\u00a0<hr/></td><td align=\"left\" valign=\"bottom\">\u00a0<hr/></td><td align=\"left\" valign=\"bottom\">\u00a0<hr/></td><td align=\"left\" valign=\"bottom\">\u00a0<hr/></td></tr><tr><td align=\"left\" valign=\"bottom\">Very good<hr/></td><td align=\"left\" valign=\"bottom\">0.006<hr/></td><td align=\"left\" valign=\"bottom\">0.58 (0.395, 0.853)<hr/></td><td align=\"left\" valign=\"bottom\">0.872<hr/></td><td align=\"left\" valign=\"bottom\">0.96 (0.562, 1.629)<hr/></td></tr><tr><td align=\"left\" valign=\"bottom\">Good<hr/></td><td align=\"left\" valign=\"bottom\">0.017<hr/></td><td align=\"left\" valign=\"bottom\">0.60 (0.397, 0.913)<hr/></td><td align=\"left\" valign=\"bottom\">0.491<hr/></td><td align=\"left\" valign=\"bottom\">1.23 (0.687, 2.189)<hr/></td></tr><tr><td align=\"left\" valign=\"bottom\">Fair<hr/></td><td align=\"left\" valign=\"bottom\">0.254<hr/></td><td align=\"left\" valign=\"bottom\">0.56 (0.207, 1.515)<hr/></td><td align=\"left\" valign=\"bottom\">0.522<hr/></td><td align=\"left\" valign=\"bottom\">1.71 (0.331, 8.848)<hr/></td></tr><tr><td align=\"left\" valign=\"bottom\">Poor<hr/></td><td align=\"left\" valign=\"bottom\">0.502<hr/></td><td align=\"left\" valign=\"bottom\">0.630 (0.164, 2.426)<hr/></td><td align=\"left\" valign=\"bottom\">0.781<hr/></td><td align=\"left\" valign=\"bottom\">1.29 (0.211, 7.900)<hr/></td></tr><tr><td rowspan=\"5\" align=\"left\" valign=\"top\">Students mother or next of kin education level<hr/></td><td align=\"left\" valign=\"bottom\">No education (ref)<hr/></td><td align=\"left\" valign=\"bottom\">\u00a0<hr/></td><td align=\"left\" valign=\"bottom\">\u00a0<hr/></td><td align=\"left\" valign=\"bottom\">\u00a0<hr/></td><td align=\"left\" valign=\"bottom\">\u00a0<hr/></td></tr><tr><td align=\"left\" valign=\"bottom\">Primary<hr/></td><td align=\"left\" valign=\"bottom\">0.985<hr/></td><td align=\"left\" valign=\"bottom\">1.00 (0.725, 1.389)<hr/></td><td align=\"left\" valign=\"bottom\">0.297<hr/></td><td align=\"left\" valign=\"bottom\">0.75 (0.433, 1.292)<hr/></td></tr><tr><td align=\"left\" valign=\"bottom\">Secondary<hr/></td><td align=\"left\" valign=\"bottom\">0.163<hr/></td><td align=\"left\" valign=\"bottom\">1.33 (0.891, 1.979)<hr/></td><td align=\"left\" valign=\"bottom\">0.051<hr/></td><td align=\"left\" valign=\"bottom\">0.46 (0.210, 1.004)<hr/></td></tr><tr><td align=\"left\" valign=\"bottom\">Diploma<hr/></td><td align=\"left\" valign=\"bottom\">0.005<hr/></td><td align=\"left\" valign=\"bottom\">2.00 (1.228, 3.251)<hr/></td><td align=\"left\" valign=\"bottom\">0.063<hr/></td><td align=\"left\" valign=\"bottom\">0.42 (0.171, 1.049)<hr/></td></tr><tr><td align=\"left\" valign=\"bottom\">Degree<hr/></td><td align=\"left\" valign=\"bottom\">0.171<hr/></td><td align=\"left\" valign=\"bottom\">1.45 (0.853, 2.447)<hr/></td><td align=\"left\" valign=\"bottom\"><bold>0.013</bold><hr/></td><td align=\"left\" valign=\"bottom\">0.26 (0.089, 0.752)<hr/></td></tr><tr><td rowspan=\"5\" align=\"left\" valign=\"top\">Students father or next of kin education level<hr/></td><td align=\"left\" valign=\"bottom\">No education (ref)<hr/></td><td align=\"left\" valign=\"bottom\">\u00a0<hr/></td><td align=\"left\" valign=\"bottom\">\u00a0<hr/></td><td align=\"left\" valign=\"bottom\">\u00a0<hr/></td><td align=\"left\" valign=\"bottom\">\u00a0<hr/></td></tr><tr><td align=\"left\" valign=\"bottom\">Primary<hr/></td><td align=\"left\" valign=\"bottom\">0.699<hr/></td><td align=\"left\" valign=\"bottom\">0.93 (0.651, 1.333)<hr/></td><td align=\"left\" valign=\"bottom\">0.564<hr/></td><td align=\"left\" valign=\"bottom\">1.18 (0.671, 2.077)<hr/></td></tr><tr><td align=\"left\" valign=\"bottom\">Secondary<hr/></td><td align=\"left\" valign=\"bottom\">0.298<hr/></td><td align=\"left\" valign=\"bottom\">1.25 (0.821, 1.907)<hr/></td><td align=\"left\" valign=\"bottom\">0.158<hr/></td><td align=\"left\" valign=\"bottom\">1.71 (0.812, 3.603)<hr/></td></tr><tr><td align=\"left\" valign=\"bottom\">Diploma<hr/></td><td align=\"left\" valign=\"bottom\">0.096<hr/></td><td align=\"left\" valign=\"bottom\">1.47 (0.935, 2.298)<hr/></td><td align=\"left\" valign=\"bottom\">0.266<hr/></td><td align=\"left\" valign=\"bottom\">1.57 (0.709, 3.479)<hr/></td></tr><tr><td align=\"left\" valign=\"bottom\">Degree<hr/></td><td align=\"left\" valign=\"bottom\">0.023<hr/></td><td align=\"left\" valign=\"bottom\">1.614 (1.069, 2.437)<hr/></td><td align=\"left\" valign=\"bottom\">0.103<hr/></td><td align=\"left\" valign=\"bottom\">2.06 (0.864, 4.925)<hr/></td></tr><tr><td rowspan=\"2\" align=\"left\" valign=\"top\">Place to have meal<hr/></td><td align=\"left\" valign=\"bottom\">In the university cafeteria (ref)<hr/></td><td align=\"left\" valign=\"bottom\">\u00a0<hr/></td><td align=\"left\" valign=\"bottom\">\u00a0<hr/></td><td align=\"left\" valign=\"bottom\">\u00a0<hr/></td><td align=\"left\" valign=\"bottom\">\u00a0<hr/></td></tr><tr><td align=\"left\" valign=\"bottom\">Non-caf\u00e9<hr/></td><td align=\"left\" valign=\"bottom\">0.001<hr/></td><td align=\"left\" valign=\"bottom\">1.89 (1.297, 2.748)<hr/></td><td align=\"left\" valign=\"bottom\">0.180<hr/></td><td align=\"left\" valign=\"bottom\">1.56 (0.814, 3.002)<hr/></td></tr><tr><td rowspan=\"5\" align=\"left\" valign=\"top\">Money they get monthly from family or relatives<hr/></td><td align=\"left\" valign=\"bottom\">Less than 100 birr (ref)<hr/></td><td align=\"left\" valign=\"bottom\">\u00a0<hr/></td><td align=\"left\" valign=\"bottom\">\u00a0<hr/></td><td align=\"left\" valign=\"bottom\">\u00a0<hr/></td><td align=\"left\" valign=\"bottom\">\u00a0<hr/></td></tr><tr><td align=\"left\" valign=\"bottom\">100-200 birr<hr/></td><td align=\"left\" valign=\"bottom\">0.277<hr/></td><td align=\"left\" valign=\"bottom\">1.32 (0.801, 2.171)<hr/></td><td align=\"left\" valign=\"bottom\">0.958<hr/></td><td align=\"left\" valign=\"bottom\">1.02 (0.502, 2.070)<hr/></td></tr><tr><td align=\"left\" valign=\"bottom\">200-300 birr<hr/></td><td align=\"left\" valign=\"bottom\">0.704<hr/></td><td align=\"left\" valign=\"bottom\">1.10 (0.683, 1.760)<hr/></td><td align=\"left\" valign=\"bottom\">0.600<hr/></td><td align=\"left\" valign=\"bottom\">0.83 (0.419, 1.653)<hr/></td></tr><tr><td align=\"left\" valign=\"bottom\">300-500 birr<hr/></td><td align=\"left\" valign=\"bottom\">0.070<hr/></td><td align=\"left\" valign=\"bottom\">1.52 (0.966, 2.405)<hr/></td><td align=\"left\" valign=\"bottom\">0.819<hr/></td><td align=\"left\" valign=\"bottom\">0.92 (0.459, 1.852)<hr/></td></tr><tr><td align=\"left\" valign=\"bottom\">More than 500 birr<hr/></td><td align=\"left\" valign=\"bottom\">0.001<hr/></td><td align=\"left\" valign=\"bottom\">2.73 (1.541, 4.850)<hr/></td><td align=\"left\" valign=\"bottom\">0.399<hr/></td><td align=\"left\" valign=\"bottom\">1.48 (0.596, 3.669)<hr/></td></tr><tr><td rowspan=\"7\" align=\"left\" valign=\"top\">Field of study<hr/></td><td align=\"left\" valign=\"bottom\">Medicine (ref)<hr/></td><td align=\"left\" valign=\"bottom\">\u00a0<hr/></td><td align=\"left\" valign=\"bottom\">\u00a0<hr/></td><td align=\"left\" valign=\"bottom\">\u00a0<hr/></td><td align=\"left\" valign=\"bottom\">\u00a0<hr/></td></tr><tr><td align=\"left\" valign=\"bottom\">Nursing<hr/></td><td align=\"left\" valign=\"bottom\">&lt;0.0001<hr/></td><td align=\"left\" valign=\"bottom\">0.24 (0.154, 0.377)<hr/></td><td align=\"left\" valign=\"bottom\"><bold>&lt;0.0001</bold><hr/></td><td align=\"left\" valign=\"bottom\">0.20 (0.088, 0.428)<hr/></td></tr><tr><td align=\"left\" valign=\"bottom\">Midwifery<hr/></td><td align=\"left\" valign=\"bottom\">&lt;0.0001<hr/></td><td align=\"left\" valign=\"bottom\">0.23 (0.141, 0.385)<hr/></td><td align=\"left\" valign=\"bottom\"><bold>0.001</bold><hr/></td><td align=\"left\" valign=\"bottom\">0.24 (0.098, 0.567)<hr/></td></tr><tr><td align=\"left\" valign=\"bottom\">Medical laboratory technology<hr/></td><td align=\"left\" valign=\"bottom\">&lt;0.0001<hr/></td><td align=\"left\" valign=\"bottom\">0.18 (0.105, 0.300)<hr/></td><td align=\"left\" valign=\"bottom\"><bold>&lt;0.0001</bold><hr/></td><td align=\"left\" valign=\"bottom\">0.14 (0.051, 0.388)<hr/></td></tr><tr><td align=\"left\" valign=\"bottom\">Health officer<hr/></td><td align=\"left\" valign=\"bottom\">&lt;0.0001<hr/></td><td align=\"left\" valign=\"bottom\">0.20 (0.134, 0.302)<hr/></td><td align=\"left\" valign=\"bottom\"><bold>&lt;0.0001</bold><hr/></td><td align=\"left\" valign=\"bottom\">0.19 (0.099, 0.369)<hr/></td></tr><tr><td align=\"left\" valign=\"bottom\">Optometry<hr/></td><td align=\"left\" valign=\"bottom\">0.001<hr/></td><td align=\"left\" valign=\"bottom\">0.34 (0.172, 0.650)<hr/></td><td align=\"left\" valign=\"bottom\"><bold>0.003</bold><hr/></td><td align=\"left\" valign=\"bottom\">0.16 (0.047, 0.536)<hr/></td></tr><tr><td align=\"left\" valign=\"bottom\">Environmental<hr/></td><td align=\"left\" valign=\"bottom\">&lt;0.0001<hr/></td><td align=\"left\" valign=\"bottom\">0.23 (0.106, 0.510)<hr/></td><td align=\"left\" valign=\"bottom\"><bold>0.008</bold><hr/></td><td align=\"left\" valign=\"bottom\">0.17 (0.046, 0.626)<hr/></td></tr><tr><td rowspan=\"5\" align=\"left\" valign=\"top\">Year of study<hr/></td><td align=\"left\" valign=\"bottom\">1st year (ref)<hr/></td><td align=\"left\" valign=\"bottom\">\u00a0<hr/></td><td align=\"left\" valign=\"bottom\">\u00a0<hr/></td><td align=\"left\" valign=\"bottom\">\u00a0<hr/></td><td align=\"left\" valign=\"bottom\">\u00a0<hr/></td></tr><tr><td align=\"left\" valign=\"bottom\">2nd year<hr/></td><td align=\"left\" valign=\"bottom\">0.004<hr/></td><td align=\"left\" valign=\"bottom\">1.87 (1.224, 2.852)<hr/></td><td align=\"left\" valign=\"bottom\">0.398<hr/></td><td align=\"left\" valign=\"bottom\">1.32 (0.690, 2.541)<hr/></td></tr><tr><td align=\"left\" valign=\"bottom\">3rd year<hr/></td><td align=\"left\" valign=\"bottom\">0.003<hr/></td><td align=\"left\" valign=\"bottom\">1.97 (1.264, 3.063)<hr/></td><td align=\"left\" valign=\"bottom\">0.583<hr/></td><td align=\"left\" valign=\"bottom\">1.20 (0.627, 2.297)<hr/></td></tr><tr><td align=\"left\" valign=\"bottom\">4th year<hr/></td><td align=\"left\" valign=\"bottom\">0.003<hr/></td><td align=\"left\" valign=\"bottom\">1.92 (1.252, 2.929)<hr/></td><td align=\"left\" valign=\"bottom\">0.080<hr/></td><td align=\"left\" valign=\"bottom\">1.84 (0.929, 3.657)<hr/></td></tr><tr><td align=\"left\" valign=\"bottom\">5th year<hr/></td><td align=\"left\" valign=\"bottom\">&lt;0.0001<hr/></td><td align=\"left\" valign=\"bottom\">3.38 (1.704, 6.688)<hr/></td><td align=\"left\" valign=\"bottom\">0.549<hr/></td><td align=\"left\" valign=\"bottom\">0.71 (0.233, 2.171)<hr/></td></tr><tr><td colspan=\"2\" align=\"left\" valign=\"bottom\">Total number of students in a class (per one additional student)<hr/></td><td align=\"left\" valign=\"bottom\">&lt;0.0001<hr/></td><td align=\"left\" valign=\"bottom\">1.01 (1.005, 1.011)<hr/></td><td align=\"left\" valign=\"bottom\">0.257<hr/></td><td align=\"left\" valign=\"bottom\">1.00 (0.989, 1.003)<hr/></td></tr><tr><td rowspan=\"3\" align=\"left\" valign=\"top\">Reason for missing classes<hr/></td><td align=\"left\" valign=\"bottom\">Class schedule inconvenience<hr/></td><td align=\"left\" valign=\"bottom\">&lt;0.0001<hr/></td><td align=\"left\" valign=\"bottom\">7.78 (5.320, 11.369)<hr/></td><td align=\"left\" valign=\"bottom\"><bold>&lt;0.0001</bold><hr/></td><td align=\"left\" valign=\"bottom\">13.72 (8.456, 22.244)<hr/></td></tr><tr><td align=\"left\" valign=\"bottom\">The subject does not need teachers guidance (simplicity)<hr/></td><td align=\"left\" valign=\"bottom\">&lt;0.0001<hr/></td><td align=\"left\" valign=\"bottom\">3.33 (1.849, 5.989)<hr/></td><td align=\"left\" valign=\"bottom\"><bold>&lt;0.0001</bold><hr/></td><td align=\"left\" valign=\"bottom\">8.10 (3.942, 16.640)<hr/></td></tr><tr><td align=\"left\" valign=\"bottom\">Lack of interest to the subject<hr/></td><td align=\"left\" valign=\"bottom\">&lt;0.0001<hr/></td><td align=\"left\" valign=\"bottom\">5.14 (2.057, 12.830)<hr/></td><td align=\"left\" valign=\"bottom\"><bold>&lt;0.0001</bold><hr/></td><td align=\"left\" valign=\"bottom\">9.15 (3.359, 24.926)<hr/></td></tr><tr><td align=\"left\">\u00a0</td><td align=\"left\">Do not like teachers teaching style</td><td align=\"left\">&lt;0.0001</td><td align=\"left\">5.24 (3.285, 8.344)</td><td align=\"left\"><bold>&lt;0.0001</bold></td><td align=\"left\">3.37 (1.877, 6.032)</td></tr></tbody></table>\n"
+            },
+            "text": "Variables\tP-value\tUnadjusted ORs (95% CI)\tP-value\tAOR (95% CI)\t \tSex\tMale (ref)\t\u00a0\t\u00a0\t\u00a0\t\u00a0\t \tFemale\t0.042\t1.42 (1.013, 1.993)\t0.846\t1.06 (0.594, 1.889)\t \tGrown up\tUrban (ref)\t\u00a0\t\u00a0\t\u00a0\t\u00a0\t \tRural\t<0.0001\t0.59 (.449, 0.767)\t0.20\t0.750 (0.483, 1.164)\t \tReligion\tOrthodox (ref)\t\u00a0\t\u00a0\t\u00a0\t\u00a0\t \tProtestant\t0.333\t0.86 (0.640, 1.163)\t0.439\t0.84 (0.544, 1.303)\t \tMuslim\t0.055\t1.60 (0.991, 2.587)\t0.225\t1.51 (0.775, 2.951)\t \tOther religion\t0.364\t1.41 (0.671, 2.973)\t0.834\t0.89 (0.304, 2.612)\t \tHigh school\tGovernmental or public (ref)\t\u00a0\t\u00a0\t\u00a0\t\u00a0\t \tPrivate\t<0.0001\t3.22 (2.063, 5.037)\t0.010\t2.49 (1.246, 4.959)\t \tMissionary\t0.611\t1.27 (0.505, 3.199)\t0.995\t1.00 (0.219, 4.517)\t \tUniversity entrance examination score range\tExcellent (ref)\t\u00a0\t\u00a0\t\u00a0\t\u00a0\t \tVery good\t0.006\t0.58 (0.395, 0.853)\t0.872\t0.96 (0.562, 1.629)\t \tGood\t0.017\t0.60 (0.397, 0.913)\t0.491\t1.23 (0.687, 2.189)\t \tFair\t0.254\t0.56 (0.207, 1.515)\t0.522\t1.71 (0.331, 8.848)\t \tPoor\t0.502\t0.630 (0.164, 2.426)\t0.781\t1.29 (0.211, 7.900)\t \tStudents mother or next of kin education level\tNo education (ref)\t\u00a0\t\u00a0\t\u00a0\t\u00a0\t \tPrimary\t0.985\t1.00 (0.725, 1.389)\t0.297\t0.75 (0.433, 1.292)\t \tSecondary\t0.163\t1.33 (0.891, 1.979)\t0.051\t0.46 (0.210, 1.004)\t \tDiploma\t0.005\t2.00 (1.228, 3.251)\t0.063\t0.42 (0.171, 1.049)\t \tDegree\t0.171\t1.45 (0.853, 2.447)\t0.013\t0.26 (0.089, 0.752)\t \tStudents father or next of kin education level\tNo education (ref)\t\u00a0\t\u00a0\t\u00a0\t\u00a0\t \tPrimary\t0.699\t0.93 (0.651, 1.333)\t0.564\t1.18 (0.671, 2.077)\t \tSecondary\t0.298\t1.25 (0.821, 1.907)\t0.158\t1.71 (0.812, 3.603)\t \tDiploma\t0.096\t1.47 (0.935, 2.298)\t0.266\t1.57 (0.709, 3.479)\t \tDegree\t0.023\t1.614 (1.069, 2.437)\t0.103\t2.06 (0.864, 4.925)\t \tPlace to have meal\tIn the university cafeteria (ref)\t\u00a0\t\u00a0\t\u00a0\t\u00a0\t \tNon-caf\u00e9\t0.001\t1.89 (1.297, 2.748)\t0.180\t1.56 (0.814, 3.002)\t \tMoney they get monthly from family or relatives\tLess than 100 birr (ref)\t\u00a0\t\u00a0\t\u00a0\t\u00a0\t \t100-200 birr\t0.277\t1.32 (0.801, 2.171)\t0.958\t1.02 (0.502, 2.070)\t \t200-300 birr\t0.704\t1.10 (0.683, 1.760)\t0.600\t0.83 (0.419, 1.653)\t \t300-500 birr\t0.070\t1.52 (0.966, 2.405)\t0.819\t0.92 (0.459, 1.852)\t \tMore than 500 birr\t0.001\t2.73 (1.541, 4.850)\t0.399\t1.48 (0.596, 3.669)\t \tField of study\tMedicine (ref)\t\u00a0\t\u00a0\t\u00a0\t\u00a0\t \tNursing\t<0.0001\t0.24 (0.154, 0.377)\t<0.0001\t0.20 (0.088, 0.428)\t \tMidwifery\t<0.0001\t0.23 (0.141, 0.385)\t0.001\t0.24 (0.098, 0.567)\t \tMedical laboratory technology\t<0.0001\t0.18 (0.105, 0.300)\t<0.0001\t0.14 (0.051, 0.388)\t \tHealth officer\t<0.0001\t0.20 (0.134, 0.302)\t<0.0001\t0.19 (0.099, 0.369)\t \tOptometry\t0.001\t0.34 (0.172, 0.650)\t0.003\t0.16 (0.047, 0.536)\t \tEnvironmental\t<0.0001\t0.23 (0.106, 0.510)\t0.008\t0.17 (0.046, 0.626)\t \tYear of study\t1st year (ref)\t\u00a0\t\u00a0\t\u00a0\t\u00a0\t \t2nd year\t0.004\t1.87 (1.224, 2.852)\t0.398\t1.32 (0.690, 2.541)\t \t3rd year\t0.003\t1.97 (1.264, 3.063)\t0.583\t1.20 (0.627, 2.297)\t \t4th year\t0.003\t1.92 (1.252, 2.929)\t0.080\t1.84 (0.929, 3.657)\t \t5th year\t<0.0001\t3.38 (1.704, 6.688)\t0.549\t0.71 (0.233, 2.171)\t \tTotal number of students in a class (per one additional student)\t<0.0001\t1.01 (1.005, 1.011)\t0.257\t1.00 (0.989, 1.003)\t \tReason for missing classes\tClass schedule inconvenience\t<0.0001\t7.78 (5.320, 11.369)\t<0.0001\t13.72 (8.456, 22.244)\t \tThe subject does not need teachers guidance (simplicity)\t<0.0001\t3.33 (1.849, 5.989)\t<0.0001\t8.10 (3.942, 16.640)\t \tLack of interest to the subject\t<0.0001\t5.14 (2.057, 12.830)\t<0.0001\t9.15 (3.359, 24.926)\t \t\u00a0\tDo not like teachers teaching style\t<0.0001\t5.24 (3.285, 8.344)\t<0.0001\t3.37 (1.877, 6.032)\t \t",
+            "sentences": [],
+            "annotations": [],
+            "relations": []
+          },
+          {
+            "bioctype": "BioCPassage",
+            "offset": 16113,
+            "infons": {
+              "file": "T2.xml",
+              "id": "T2",
+              "section_type": "TABLE",
+              "type": "table_foot"
+            },
+            "text": "Note: P-values in bold are statistically significant (p < 0.05).",
+            "sentences": [],
+            "annotations": [],
+            "relations": []
+          },
+          {
+            "bioctype": "BioCPassage",
+            "offset": 16178,
+            "infons": {
+              "section_type": "RESULTS",
+              "type": "paragraph"
+            },
+            "text": "The odds of missing one or more classes per semester was 3 times higher among students who completed their high school study in private schools as compared to those who completed their high school in public school (OR\u2009=\u20093.2; 95% CI, 2.06 to 5.04). Relative to students who got \u201cexcellent grade\u201d in the university entrance examination, students who scored in the range of \u201cvery good grade\u201d and \u201cgood grade\u201d were more likely to miss one or more classes. In the multivariate analysis model, the odds of missing at least one or more class in a semester was about 2.5 times higher among students who completed their high school study in private schools (AOR\u2009=\u20092.5; 95% CI, 1.25 to 4.96) (Table\u00a02).",
+            "sentences": [],
+            "annotations": [],
+            "relations": []
+          },
+          {
+            "bioctype": "BioCPassage",
+            "offset": 16892,
+            "infons": {
+              "section_type": "RESULTS",
+              "type": "paragraph"
+            },
+            "text": "In the bivariate analysis model, current residence, interest in the field of study, and current social drug use were not associated with class absenteeism. On the other hand, students in a large class size (OR\u2009=\u20091.0; 95% CI, 1.005 to 1.011), students whose income was more than 25 USD per month (OR\u2009=\u20092.7, 95% CI, 1.54 to 4.85), and did not have meal in the university cafeteria (OR\u2009=\u20091.9; 95% CI, 1.30 to 2.75) were significantly associated with missing at least one or more classes per semester. Relative to first year students, 2nd, 3rd, 4th and 5th year students were more likely to miss one or more classes in a semester. Surprisingly, the odds of missing one or more classes per semester among medical students was 75% more than among health science students (Table\u00a02).",
+            "sentences": [],
+            "annotations": [],
+            "relations": []
+          },
+          {
+            "bioctype": "BioCPassage",
+            "offset": 17681,
+            "infons": {
+              "section_type": "RESULTS",
+              "type": "paragraph"
+            },
+            "text": "Missing 3 or more classes was higher in older students (OR = 1.2; 95% CI; 1.10 to 1.26), and students with a better educated mothers and fathers. Among students who grew up in rural areas, the odds of missing 3 or more classes per semester was 54% less than students who grew up in urban areas (OR = 0.5; 95% CI, 0.36 to 0.58). Missing three or more classes per semester was not associated with sex of the student or their religion. In the multivariate analysis model, the odds of not missing 3 or more classes per semester remained strongly associated with students who grew up in rural areas (AOR = 0.4; 95% CI, 0.25 to 0.66) (Table\u00a03).",
+            "sentences": [],
+            "annotations": [],
+            "relations": []
+          },
+          {
+            "bioctype": "BioCPassage",
+            "offset": 18321,
+            "infons": {
+              "file": "T3.xml",
+              "id": "T3",
+              "section_type": "TABLE",
+              "type": "table_caption"
+            },
+            "text": "Odds ratio of variables (missed class <3 times vs missed class \u22653 per semester)",
+            "sentences": [],
+            "annotations": [],
+            "relations": []
+          },
+          {
+            "bioctype": "BioCPassage",
+            "offset": 18403,
+            "infons": {
+              "file": "T3.xml",
+              "id": "T3",
+              "section_type": "TABLE",
+              "type": "table",
+              "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<table frame=\"hsides\" rules=\"groups\" border=\"1\"><colgroup><col align=\"left\"/><col align=\"left\"/><col align=\"left\"/><col align=\"left\"/><col align=\"left\"/><col align=\"left\"/></colgroup><thead valign=\"top\"><tr><th colspan=\"2\" align=\"left\">\u00a0</th><th align=\"left\"><bold>P-value</bold></th><th align=\"left\"><bold>Unadjusted ORs (95% CI)</bold></th><th align=\"left\"><bold>P-value</bold></th><th align=\"left\"><bold>AOR (95% CI)</bold></th></tr></thead><tbody valign=\"top\"><tr><td colspan=\"2\" align=\"left\" valign=\"bottom\">Age<hr/></td><td align=\"left\" valign=\"bottom\">&lt;0.0001<hr/></td><td align=\"left\" valign=\"bottom\">1.18 (1.102, 1.257)<hr/></td><td align=\"left\" valign=\"bottom\"><bold>0.020</bold><hr/></td><td align=\"left\" valign=\"bottom\">1.19 (1.028, 1.374)<hr/></td></tr><tr><td rowspan=\"2\" align=\"left\" valign=\"top\">Grown up<hr/></td><td align=\"left\" valign=\"bottom\">Urban (ref)<hr/></td><td align=\"left\" valign=\"bottom\">\u00a0<hr/></td><td align=\"left\" valign=\"bottom\">\u00a0<hr/></td><td align=\"left\" valign=\"bottom\">\u00a0<hr/></td><td align=\"left\" valign=\"bottom\">\u00a0<hr/></td></tr><tr><td align=\"left\" valign=\"bottom\">Rural<hr/></td><td align=\"left\" valign=\"bottom\">&lt;0.0001<hr/></td><td align=\"left\" valign=\"bottom\">0.46 (0.360, 0.579)<hr/></td><td align=\"left\" valign=\"bottom\"><bold>&lt;0.0001</bold><hr/></td><td align=\"left\" valign=\"bottom\">0.41 (0.251, 0.663)<hr/></td></tr><tr><td rowspan=\"3\" align=\"left\" valign=\"top\">High school<hr/></td><td align=\"left\" valign=\"bottom\">Governmental or public (ref)<hr/></td><td align=\"left\" valign=\"bottom\">\u00a0<hr/></td><td align=\"left\" valign=\"bottom\">\u00a0<hr/></td><td align=\"left\" valign=\"bottom\">\u00a0<hr/></td><td align=\"left\" valign=\"bottom\">\u00a0<hr/></td></tr><tr><td align=\"left\" valign=\"bottom\">Private<hr/></td><td align=\"left\" valign=\"bottom\">&lt;0.0001<hr/></td><td align=\"left\" valign=\"bottom\">2.56 (1.897, 3.453)<hr/></td><td align=\"left\" valign=\"bottom\"><bold>0.030</bold><hr/></td><td align=\"left\" valign=\"bottom\">2.10 (1.077, 4.103)<hr/></td></tr><tr><td align=\"left\" valign=\"bottom\">Missionary<hr/></td><td align=\"left\" valign=\"bottom\">0.005<hr/></td><td align=\"left\" valign=\"bottom\">3.32 (1.429, 7.711)<hr/></td><td align=\"left\" valign=\"bottom\">0.126<hr/></td><td align=\"left\" valign=\"bottom\">3.84 (0.686, 21.496)<hr/></td></tr><tr><td rowspan=\"5\" align=\"left\" valign=\"top\">University entrance examination score range<hr/></td><td align=\"left\" valign=\"bottom\">Excellent (ref)<hr/></td><td align=\"left\" valign=\"bottom\">\u00a0<hr/></td><td align=\"left\" valign=\"bottom\">\u00a0<hr/></td><td align=\"left\" valign=\"bottom\">\u00a0<hr/></td><td align=\"left\" valign=\"bottom\">\u00a0<hr/></td></tr><tr><td align=\"left\" valign=\"bottom\">Very good<hr/></td><td align=\"left\" valign=\"bottom\">&lt;0.0001<hr/></td><td align=\"left\" valign=\"bottom\">0.41 (0.303, 0.565)<hr/></td><td align=\"left\" valign=\"bottom\">0.107<hr/></td><td align=\"left\" valign=\"bottom\">0.645 (0.378, 1.100)<hr/></td></tr><tr><td align=\"left\" valign=\"bottom\">Good<hr/></td><td align=\"left\" valign=\"bottom\">&lt;0.0001<hr/></td><td align=\"left\" valign=\"bottom\">0.40 (0.283, 0.561)<hr/></td><td align=\"left\" valign=\"bottom\">0.130<hr/></td><td align=\"left\" valign=\"bottom\">0.628 (0.344, 1.147)<hr/></td></tr><tr><td align=\"left\" valign=\"bottom\">Fair<hr/></td><td align=\"left\" valign=\"bottom\">0.291<hr/></td><td align=\"left\" valign=\"bottom\">0.62 (0.260, 1.497)<hr/></td><td align=\"left\" valign=\"bottom\">0.860<hr/></td><td align=\"left\" valign=\"bottom\">0.843 (0.127, 5.595)<hr/></td></tr><tr><td align=\"left\" valign=\"bottom\">Poor<hr/></td><td align=\"left\" valign=\"bottom\">0.822<hr/></td><td align=\"left\" valign=\"bottom\">0.87 (0.269, 2.834)<hr/></td><td align=\"left\" valign=\"bottom\">0.613<hr/></td><td align=\"left\" valign=\"bottom\">0.600 (0.083, 4.348)<hr/></td></tr><tr><td rowspan=\"5\" align=\"left\" valign=\"top\">Students mother or next of kin education level<hr/></td><td align=\"left\" valign=\"bottom\">No education (ref)<hr/></td><td align=\"left\" valign=\"bottom\">\u00a0<hr/></td><td align=\"left\" valign=\"bottom\">\u00a0<hr/></td><td align=\"left\" valign=\"bottom\">\u00a0<hr/></td><td align=\"left\" valign=\"bottom\">\u00a0<hr/></td></tr><tr><td align=\"left\" valign=\"bottom\">Primary<hr/></td><td align=\"left\" valign=\"bottom\">0.045<hr/></td><td align=\"left\" valign=\"bottom\">1.35 (1.007, 1.821)<hr/></td><td align=\"left\" valign=\"bottom\">0.337<hr/></td><td align=\"left\" valign=\"bottom\">1.37 (0.723, 2.579)<hr/></td></tr><tr><td align=\"left\" valign=\"bottom\">Secondary<hr/></td><td align=\"left\" valign=\"bottom\">&lt;0.0001<hr/></td><td align=\"left\" valign=\"bottom\">1.87 (1.326, 2.630)<hr/></td><td align=\"left\" valign=\"bottom\">0.969<hr/></td><td align=\"left\" valign=\"bottom\">0.98 (0.421, 2.297)<hr/></td></tr><tr><td align=\"left\" valign=\"bottom\">Diploma<hr/></td><td align=\"left\" valign=\"bottom\">&lt;0.0001<hr/></td><td align=\"left\" valign=\"bottom\">2.62 (1.791, 3.842)<hr/></td><td align=\"left\" valign=\"bottom\">0.238<hr/></td><td align=\"left\" valign=\"bottom\">0.530 (0.185, 1.520)<hr/></td></tr><tr><td align=\"left\" valign=\"bottom\">Degree<hr/></td><td align=\"left\" valign=\"bottom\">0.002<hr/></td><td align=\"left\" valign=\"bottom\">1.98 (1.277, 3.065)<hr/></td><td align=\"left\" valign=\"bottom\">0.419<hr/></td><td align=\"left\" valign=\"bottom\">0.62 (0.197, 1.964)<hr/></td></tr><tr><td rowspan=\"5\" align=\"left\" valign=\"top\">Students father or next of kin education level<hr/></td><td align=\"left\" valign=\"bottom\">No education (ref)<hr/></td><td align=\"left\" valign=\"bottom\">\u00a0<hr/></td><td align=\"left\" valign=\"bottom\">\u00a0<hr/></td><td align=\"left\" valign=\"bottom\">\u00a0<hr/></td><td align=\"left\" valign=\"bottom\">\u00a0<hr/></td></tr><tr><td align=\"left\" valign=\"bottom\">Primary<hr/></td><td align=\"left\" valign=\"bottom\">0.739<hr/></td><td align=\"left\" valign=\"bottom\">0.95 (0.679, 1.316)<hr/></td><td align=\"left\" valign=\"bottom\">0.476<hr/></td><td align=\"left\" valign=\"bottom\">0.78 (0.400, 1.534)<hr/></td></tr><tr><td align=\"left\" valign=\"bottom\">Secondary<hr/></td><td align=\"left\" valign=\"bottom\">0.313<hr/></td><td align=\"left\" valign=\"bottom\">1.21 (0.836, 1.747)<hr/></td><td align=\"left\" valign=\"bottom\">0.984<hr/></td><td align=\"left\" valign=\"bottom\">0.99 (0.431, 2.283)<hr/></td></tr><tr><td align=\"left\" valign=\"bottom\">Diploma<hr/></td><td align=\"left\" valign=\"bottom\">0.001<hr/></td><td align=\"left\" valign=\"bottom\">1.90 (1.297, 2.769)<hr/></td><td align=\"left\" valign=\"bottom\">0.553<hr/></td><td align=\"left\" valign=\"bottom\">0.76 (0.313, 1.863)<hr/></td></tr><tr><td align=\"left\" valign=\"bottom\">Degree<hr/></td><td align=\"left\" valign=\"bottom\">&lt;0.0001<hr/></td><td align=\"left\" valign=\"bottom\">1.97 (1.398, 2.785)<hr/></td><td align=\"left\" valign=\"bottom\">0.587<hr/></td><td align=\"left\" valign=\"bottom\">0.76 (0.287, 2.027)<hr/></td></tr><tr><td rowspan=\"2\" align=\"left\" valign=\"top\">Place to have meal<hr/></td><td align=\"left\" valign=\"bottom\">In the university cafeteria (ref)<hr/></td><td align=\"left\" valign=\"bottom\">\u00a0<hr/></td><td align=\"left\" valign=\"bottom\">\u00a0<hr/></td><td align=\"left\" valign=\"bottom\">\u00a0<hr/></td><td align=\"left\" valign=\"bottom\">\u00a0<hr/></td></tr><tr><td align=\"left\" valign=\"bottom\">Non-caf\u00e9<hr/></td><td align=\"left\" valign=\"bottom\">0.001<hr/></td><td align=\"left\" valign=\"bottom\">1.65 (1.242, 2.202)<hr/></td><td align=\"left\" valign=\"bottom\">0.498<hr/></td><td align=\"left\" valign=\"bottom\">1.27 (0.638, 2.522)<hr/></td></tr><tr><td rowspan=\"5\" align=\"left\" valign=\"top\">Money they get monthly from family or relatives<hr/></td><td align=\"left\" valign=\"bottom\">Less than 100 birr (ref)<hr/></td><td align=\"left\" valign=\"bottom\">\u00a0<hr/></td><td align=\"left\" valign=\"bottom\">\u00a0<hr/></td><td align=\"left\" valign=\"bottom\">\u00a0<hr/></td><td align=\"left\" valign=\"bottom\">\u00a0<hr/></td></tr><tr><td align=\"left\" valign=\"bottom\">100-200 birr<hr/></td><td align=\"left\" valign=\"bottom\">0.326<hr/></td><td align=\"left\" valign=\"bottom\">1.28 (0.783, 2.083<hr/></td><td align=\"left\" valign=\"bottom\"><bold>0.037</bold><hr/></td><td align=\"left\" valign=\"bottom\">2.50 (1.058, 5.900)<hr/></td></tr><tr><td align=\"left\" valign=\"bottom\">200-300 birr<hr/></td><td align=\"left\" valign=\"bottom\">0.044<hr/></td><td align=\"left\" valign=\"bottom\">1.62 (1.012, 2.586)<hr/></td><td align=\"left\" valign=\"bottom\"><bold>0.016</bold><hr/></td><td align=\"left\" valign=\"bottom\">2.92 (1.221, 6.969)<hr/></td></tr><tr><td align=\"left\" valign=\"bottom\">300-500 birr<hr/></td><td align=\"left\" valign=\"bottom\">&lt;0001<hr/></td><td align=\"left\" valign=\"bottom\">2.28 (1.457, 3.550)<hr/></td><td align=\"left\" valign=\"bottom\"><bold>0.014</bold><hr/></td><td align=\"left\" valign=\"bottom\">3.00 (1.251, 7.209)<hr/></td></tr><tr><td align=\"left\" valign=\"bottom\">More than 500 birr<hr/></td><td align=\"left\" valign=\"bottom\">&lt;0001<hr/></td><td align=\"left\" valign=\"bottom\">3.70 (2.241, 6.101)<hr/></td><td align=\"left\" valign=\"bottom\">0.060<hr/></td><td align=\"left\" valign=\"bottom\">2.71 (0.961, 7.618)<hr/></td></tr><tr><td rowspan=\"7\" align=\"left\" valign=\"top\">Field of study<hr/></td><td align=\"left\" valign=\"bottom\">Medicine (ref)<hr/></td><td align=\"left\" valign=\"bottom\">\u00a0<hr/></td><td align=\"left\" valign=\"bottom\">\u00a0<hr/></td><td align=\"left\" valign=\"bottom\">\u00a0<hr/></td><td align=\"left\" valign=\"bottom\">\u00a0<hr/></td></tr><tr><td align=\"left\" valign=\"bottom\">Nursing<hr/></td><td align=\"left\" valign=\"bottom\">&lt;0001<hr/></td><td align=\"left\" valign=\"bottom\">0.17 (0.113, 0.241)<hr/></td><td align=\"left\" valign=\"bottom\"><bold>&lt;0.0001</bold><hr/></td><td align=\"left\" valign=\"bottom\">0.11 (0.044, 0.253)<hr/></td></tr><tr><td align=\"left\" valign=\"bottom\">Midwifery<hr/></td><td align=\"left\" valign=\"bottom\">&lt;0001<hr/></td><td align=\"left\" valign=\"bottom\">0.19 (0.122, 0.292)<hr/></td><td align=\"left\" valign=\"bottom\"><bold>0.001</bold><hr/></td><td align=\"left\" valign=\"bottom\">0.20 (0.075, 0.514)<hr/></td></tr><tr><td align=\"left\" valign=\"bottom\">Medical laboratory technology<hr/></td><td align=\"left\" valign=\"bottom\">&lt;0001<hr/></td><td align=\"left\" valign=\"bottom\">0.20 (0.122, 0.316)<hr/></td><td align=\"left\" valign=\"bottom\"><bold>0.005</bold><hr/></td><td align=\"left\" valign=\"bottom\">0.21 (0.073, 0.624)<hr/></td></tr><tr><td align=\"left\" valign=\"bottom\">Health officer<hr/></td><td align=\"left\" valign=\"bottom\">&lt;0001<hr/></td><td align=\"left\" valign=\"bottom\">0.19 (0.136, 0.262)<hr/></td><td align=\"left\" valign=\"bottom\"><bold>&lt;0.0001</bold><hr/></td><td align=\"left\" valign=\"bottom\">0.12 (0.061, 0.239)<hr/></td></tr><tr><td align=\"left\" valign=\"bottom\">Optometry<hr/></td><td align=\"left\" valign=\"bottom\">&lt;0001<hr/></td><td align=\"left\" valign=\"bottom\">0.23 (0.129, 0.397)<hr/></td><td align=\"left\" valign=\"bottom\"><bold>0.003</bold><hr/></td><td align=\"left\" valign=\"bottom\">0.13 (0.033, 0.487)<hr/></td></tr><tr><td align=\"left\" valign=\"bottom\">Environmental<hr/></td><td align=\"left\" valign=\"bottom\">&lt;0001<hr/></td><td align=\"left\" valign=\"bottom\">0.17 (0.077, 0.353)<hr/></td><td align=\"left\" valign=\"bottom\"><bold>0.002</bold><hr/></td><td align=\"left\" valign=\"bottom\">0.11 (0.026, 0.427)<hr/></td></tr><tr><td rowspan=\"5\" align=\"left\" valign=\"top\">Year of study<hr/></td><td align=\"left\" valign=\"bottom\">1st year (ref)<hr/></td><td align=\"left\" valign=\"bottom\">\u00a0<hr/></td><td align=\"left\" valign=\"bottom\">\u00a0<hr/></td><td align=\"left\" valign=\"bottom\">\u00a0<hr/></td><td align=\"left\" valign=\"bottom\">\u00a0<hr/></td></tr><tr><td align=\"left\" valign=\"bottom\">2nd year<hr/></td><td align=\"left\" valign=\"bottom\">&lt;0001<hr/></td><td align=\"left\" valign=\"bottom\">2.66 (1.660, 4.261)<hr/></td><td align=\"left\" valign=\"bottom\">0.335<hr/></td><td align=\"left\" valign=\"bottom\">1.80 (0.545, 5.925)<hr/></td></tr><tr><td align=\"left\" valign=\"bottom\">3rd year<hr/></td><td align=\"left\" valign=\"bottom\">&lt;0001<hr/></td><td align=\"left\" valign=\"bottom\">3.67 (2.267, 5.931)<hr/></td><td align=\"left\" valign=\"bottom\">0.379<hr/></td><td align=\"left\" valign=\"bottom\">1.73 (0.511, 5.856)<hr/></td></tr><tr><td align=\"left\" valign=\"bottom\">4th year<hr/></td><td align=\"left\" valign=\"bottom\">&lt;0001<hr/></td><td align=\"left\" valign=\"bottom\">4.65 (2.903, 7.435)<hr/></td><td align=\"left\" valign=\"bottom\">0.352<hr/></td><td align=\"left\" valign=\"bottom\">1.81 (0.518, 6.354)<hr/></td></tr><tr><td align=\"left\" valign=\"bottom\">5th year<hr/></td><td align=\"left\" valign=\"bottom\">&lt;0001<hr/></td><td align=\"left\" valign=\"bottom\">8.56 (4.636, 15.895)<hr/></td><td align=\"left\" valign=\"bottom\">0.745<hr/></td><td align=\"left\" valign=\"bottom\">1.30 (0.267, 6.326)<hr/></td></tr><tr><td rowspan=\"2\" align=\"left\" valign=\"top\">Joined field of study as per choice<hr/></td><td align=\"left\" valign=\"bottom\">Yes (ref)<hr/></td><td align=\"left\" valign=\"bottom\">\u00a0<hr/></td><td align=\"left\" valign=\"bottom\">\u00a0<hr/></td><td align=\"left\" valign=\"bottom\">\u00a0<hr/></td><td align=\"left\" valign=\"bottom\">\u00a0<hr/></td></tr><tr><td align=\"left\" valign=\"bottom\">No<hr/></td><td align=\"left\" valign=\"bottom\">0.017<hr/></td><td align=\"left\" valign=\"bottom\">0.74 (0.571, 0.946)<hr/></td><td align=\"left\" valign=\"bottom\">0.211<hr/></td><td align=\"left\" valign=\"bottom\">1.40 (0.828, 2.357)<hr/></td></tr><tr><td colspan=\"2\" align=\"left\" valign=\"bottom\">Total number of students in a class (per one additional student)<hr/></td><td align=\"left\" valign=\"bottom\">&lt;0001<hr/></td><td align=\"left\" valign=\"bottom\">1.01 (1.009, 1.014)<hr/></td><td align=\"left\" valign=\"bottom\">0.619<hr/></td><td align=\"left\" valign=\"bottom\">1.00 (0.995, 1.009)<hr/></td></tr><tr><td rowspan=\"4\" align=\"left\" valign=\"top\">Reason for missing classes<hr/></td><td align=\"left\" valign=\"bottom\">Class schedule inconvenience<hr/></td><td align=\"left\" valign=\"bottom\">&lt;0001<hr/></td><td align=\"left\" valign=\"bottom\">1.93 (1.526, 2.426)<hr/></td><td align=\"left\" valign=\"bottom\"><bold>&lt;0.0001</bold><hr/></td><td align=\"left\" valign=\"bottom\">3.40 (2.137, 5.405)<hr/></td></tr><tr><td align=\"left\" valign=\"bottom\">The subject does not need teachers guidance (simplicity)<hr/></td><td align=\"left\" valign=\"bottom\">&lt;0001<hr/></td><td align=\"left\" valign=\"bottom\">3.10 (2.105, 4.561)<hr/></td><td align=\"left\" valign=\"bottom\"><bold>&lt;0.0001</bold><hr/></td><td align=\"left\" valign=\"bottom\">4.80 (2.403, 9.575)<hr/></td></tr><tr><td align=\"left\" valign=\"bottom\">Lack of interest to the subject<hr/></td><td align=\"left\" valign=\"bottom\">0.002<hr/></td><td align=\"left\" valign=\"bottom\">2.07 (1.296, 3.312)<hr/></td><td align=\"left\" valign=\"bottom\">0.087<hr/></td><td align=\"left\" valign=\"bottom\">2.19 (0.893, 5.352)<hr/></td></tr><tr><td align=\"left\" valign=\"bottom\">Do not like teachers teaching style<hr/></td><td align=\"left\" valign=\"bottom\">&lt;0001<hr/></td><td align=\"left\" valign=\"bottom\">2.74 (2.077, 3.611)<hr/></td><td align=\"left\" valign=\"bottom\"><bold>0.014</bold><hr/></td><td align=\"left\" valign=\"bottom\">1.83 (1.133, 2.954)<hr/></td></tr><tr><td colspan=\"2\" align=\"left\" valign=\"bottom\">First year GPA<hr/></td><td align=\"left\" valign=\"bottom\">0.065<hr/></td><td align=\"left\" valign=\"bottom\">1.33 (0.982, 1.810)<hr/></td><td align=\"left\" valign=\"bottom\"><bold>0.020</bold><hr/></td><td align=\"left\" valign=\"bottom\">0.52 (0.298, 0.903)<hr/></td></tr><tr><td rowspan=\"3\" align=\"left\" valign=\"top\">Social drug use<hr/></td><td align=\"left\" valign=\"bottom\">Never used (ref)<hr/></td><td align=\"left\" valign=\"bottom\">\u00a0<hr/></td><td align=\"left\" valign=\"bottom\">\u00a0<hr/></td><td align=\"left\" valign=\"bottom\">\u00a0<hr/></td><td align=\"left\" valign=\"bottom\">\u00a0<hr/></td></tr><tr><td align=\"left\" valign=\"bottom\">Khat<hr/></td><td align=\"left\" valign=\"bottom\">0.195<hr/></td><td align=\"left\" valign=\"bottom\">1.39 (0.846, 2.276)<hr/></td><td align=\"left\" valign=\"bottom\">0.847<hr/></td><td align=\"left\" valign=\"bottom\">1.09 (0.465, 2.539)<hr/></td></tr><tr><td align=\"left\" valign=\"bottom\">Cigarette<hr/></td><td align=\"left\" valign=\"bottom\">0.031<hr/></td><td align=\"left\" valign=\"bottom\">2.92 (1.100, 7.737)<hr/></td><td align=\"left\" valign=\"bottom\">0.392<hr/></td><td align=\"left\" valign=\"bottom\">2.47 (0.311, 19.619)<hr/></td></tr><tr><td align=\"left\">\u00a0</td><td align=\"left\">Alcohol</td><td align=\"left\">0.324</td><td align=\"left\">1.35 (0.745, 2.432)</td><td align=\"left\">0.159</td><td align=\"left\">2.09 (0.750, 5.832)</td></tr></tbody></table>\n"
+            },
+            "text": "\u00a0\tP-value\tUnadjusted ORs (95% CI)\tP-value\tAOR (95% CI)\t \tAge\t<0.0001\t1.18 (1.102, 1.257)\t0.020\t1.19 (1.028, 1.374)\t \tGrown up\tUrban (ref)\t\u00a0\t\u00a0\t\u00a0\t\u00a0\t \tRural\t<0.0001\t0.46 (0.360, 0.579)\t<0.0001\t0.41 (0.251, 0.663)\t \tHigh school\tGovernmental or public (ref)\t\u00a0\t\u00a0\t\u00a0\t\u00a0\t \tPrivate\t<0.0001\t2.56 (1.897, 3.453)\t0.030\t2.10 (1.077, 4.103)\t \tMissionary\t0.005\t3.32 (1.429, 7.711)\t0.126\t3.84 (0.686, 21.496)\t \tUniversity entrance examination score range\tExcellent (ref)\t\u00a0\t\u00a0\t\u00a0\t\u00a0\t \tVery good\t<0.0001\t0.41 (0.303, 0.565)\t0.107\t0.645 (0.378, 1.100)\t \tGood\t<0.0001\t0.40 (0.283, 0.561)\t0.130\t0.628 (0.344, 1.147)\t \tFair\t0.291\t0.62 (0.260, 1.497)\t0.860\t0.843 (0.127, 5.595)\t \tPoor\t0.822\t0.87 (0.269, 2.834)\t0.613\t0.600 (0.083, 4.348)\t \tStudents mother or next of kin education level\tNo education (ref)\t\u00a0\t\u00a0\t\u00a0\t\u00a0\t \tPrimary\t0.045\t1.35 (1.007, 1.821)\t0.337\t1.37 (0.723, 2.579)\t \tSecondary\t<0.0001\t1.87 (1.326, 2.630)\t0.969\t0.98 (0.421, 2.297)\t \tDiploma\t<0.0001\t2.62 (1.791, 3.842)\t0.238\t0.530 (0.185, 1.520)\t \tDegree\t0.002\t1.98 (1.277, 3.065)\t0.419\t0.62 (0.197, 1.964)\t \tStudents father or next of kin education level\tNo education (ref)\t\u00a0\t\u00a0\t\u00a0\t\u00a0\t \tPrimary\t0.739\t0.95 (0.679, 1.316)\t0.476\t0.78 (0.400, 1.534)\t \tSecondary\t0.313\t1.21 (0.836, 1.747)\t0.984\t0.99 (0.431, 2.283)\t \tDiploma\t0.001\t1.90 (1.297, 2.769)\t0.553\t0.76 (0.313, 1.863)\t \tDegree\t<0.0001\t1.97 (1.398, 2.785)\t0.587\t0.76 (0.287, 2.027)\t \tPlace to have meal\tIn the university cafeteria (ref)\t\u00a0\t\u00a0\t\u00a0\t\u00a0\t \tNon-caf\u00e9\t0.001\t1.65 (1.242, 2.202)\t0.498\t1.27 (0.638, 2.522)\t \tMoney they get monthly from family or relatives\tLess than 100 birr (ref)\t\u00a0\t\u00a0\t\u00a0\t\u00a0\t \t100-200 birr\t0.326\t1.28 (0.783, 2.083\t0.037\t2.50 (1.058, 5.900)\t \t200-300 birr\t0.044\t1.62 (1.012, 2.586)\t0.016\t2.92 (1.221, 6.969)\t \t300-500 birr\t<0001\t2.28 (1.457, 3.550)\t0.014\t3.00 (1.251, 7.209)\t \tMore than 500 birr\t<0001\t3.70 (2.241, 6.101)\t0.060\t2.71 (0.961, 7.618)\t \tField of study\tMedicine (ref)\t\u00a0\t\u00a0\t\u00a0\t\u00a0\t \tNursing\t<0001\t0.17 (0.113, 0.241)\t<0.0001\t0.11 (0.044, 0.253)\t \tMidwifery\t<0001\t0.19 (0.122, 0.292)\t0.001\t0.20 (0.075, 0.514)\t \tMedical laboratory technology\t<0001\t0.20 (0.122, 0.316)\t0.005\t0.21 (0.073, 0.624)\t \tHealth officer\t<0001\t0.19 (0.136, 0.262)\t<0.0001\t0.12 (0.061, 0.239)\t \tOptometry\t<0001\t0.23 (0.129, 0.397)\t0.003\t0.13 (0.033, 0.487)\t \tEnvironmental\t<0001\t0.17 (0.077, 0.353)\t0.002\t0.11 (0.026, 0.427)\t \tYear of study\t1st year (ref)\t\u00a0\t\u00a0\t\u00a0\t\u00a0\t \t2nd year\t<0001\t2.66 (1.660, 4.261)\t0.335\t1.80 (0.545, 5.925)\t \t3rd year\t<0001\t3.67 (2.267, 5.931)\t0.379\t1.73 (0.511, 5.856)\t \t4th year\t<0001\t4.65 (2.903, 7.435)\t0.352\t1.81 (0.518, 6.354)\t \t5th year\t<0001\t8.56 (4.636, 15.895)\t0.745\t1.30 (0.267, 6.326)\t \tJoined field of study as per choice\tYes (ref)\t\u00a0\t\u00a0\t\u00a0\t\u00a0\t \tNo\t0.017\t0.74 (0.571, 0.946)\t0.211\t1.40 (0.828, 2.357)\t \tTotal number of students in a class (per one additional student)\t<0001\t1.01 (1.009, 1.014)\t0.619\t1.00 (0.995, 1.009)\t \tReason for missing classes\tClass schedule inconvenience\t<0001\t1.93 (1.526, 2.426)\t<0.0001\t3.40 (2.137, 5.405)\t \tThe subject does not need teachers guidance (simplicity)\t<0001\t3.10 (2.105, 4.561)\t<0.0001\t4.80 (2.403, 9.575)\t \tLack of interest to the subject\t0.002\t2.07 (1.296, 3.312)\t0.087\t2.19 (0.893, 5.352)\t \tDo not like teachers teaching style\t<0001\t2.74 (2.077, 3.611)\t0.014\t1.83 (1.133, 2.954)\t \tFirst year GPA\t0.065\t1.33 (0.982, 1.810)\t0.020\t0.52 (0.298, 0.903)\t \tSocial drug use\tNever used (ref)\t\u00a0\t\u00a0\t\u00a0\t\u00a0\t \tKhat\t0.195\t1.39 (0.846, 2.276)\t0.847\t1.09 (0.465, 2.539)\t \tCigarette\t0.031\t2.92 (1.100, 7.737)\t0.392\t2.47 (0.311, 19.619)\t \t\u00a0\tAlcohol\t0.324\t1.35 (0.745, 2.432)\t0.159\t2.09 (0.750, 5.832)\t \t",
+            "sentences": [],
+            "annotations": [],
+            "relations": []
+          },
+          {
+            "bioctype": "BioCPassage",
+            "offset": 21982,
+            "infons": {
+              "file": "T3.xml",
+              "id": "T3",
+              "section_type": "TABLE",
+              "type": "table_foot"
+            },
+            "text": "Note: P-values in bold are statistically significant (p < 0.05).",
+            "sentences": [],
+            "annotations": [],
+            "relations": []
+          },
+          {
+            "bioctype": "BioCPassage",
+            "offset": 22047,
+            "infons": {
+              "section_type": "RESULTS",
+              "type": "paragraph"
+            },
+            "text": "Students who attended private high schools (OR = 2.6; 95% CI, 1.90-3.45) and missionary high schools (OR = 3.3; 95% CI, 1.49 to 7.71) were significantly associated with missing three or more classes per semester. Students who scored in the university entrance examination in the range of \u201cvery good\u201d and \u201cgood grade\u201d were also significantly associated with missing 3 or more classes in a semester. In the multivariate analysis model, private high school attendance was an independent predictor for missing 3 or more classes (AOR = 2.1; 95% CI, 1.08 to 4.10) (Table\u00a03).",
+            "sentences": [],
+            "annotations": [],
+            "relations": []
+          },
+          {
+            "bioctype": "BioCPassage",
+            "offset": 22625,
+            "infons": {
+              "section_type": "RESULTS",
+              "type": "paragraph"
+            },
+            "text": "Missing 3 or more class per semester was also significantly associated with students who had meals outside the university cafeteria; students who got more than 10 USD per month; students who were studying medicine; were in second year and above in seniority; and had a good first year GPA. Large class size and inconvenient class schedule; lack of interest in the subject, teaching style of the teacher and simplicity of the subject matter were also associated with students missing 3 or more classes per semesters. The multivariate analysis also showed a strong association of students who were studying medicine, earning 10 to 25 USD per month, having better first year GPAs, having inconvenient class schedule, disliking the teaching style of the teacher, and lacking of interest in the subject matters with missing 3 or more classes in a semester (Table\u00a03).",
+            "sentences": [],
+            "annotations": [],
+            "relations": []
+          },
+          {
+            "bioctype": "BioCPassage",
+            "offset": 23488,
+            "infons": {
+              "section_type": "RESULTS",
+              "type": "paragraph"
+            },
+            "text": "The odds of missing more than 8 classes per semester was more than four times higher among students who were 20\u00a0years old or older (adjusted OR\u2009=\u20094.20, 95% CI\u2009=\u20091.48-11.92). Consistently, medical students were five times more likely to miss 8 classes per semester as compared with health science students (adjusted OR\u2009=\u20095.02, 95% CI\u2009=\u20091.27-19.73). Social drug use was also very strongly associated with missing more than 8 lectures (adjusted OR\u2009=\u200918.7, 95% CI\u2009=\u20094.59-76.18) (Table\u00a04).",
+            "sentences": [],
+            "annotations": [],
+            "relations": []
+          },
+          {
+            "bioctype": "BioCPassage",
+            "offset": 23999,
+            "infons": {
+              "file": "T4.xml",
+              "id": "T4",
+              "section_type": "TABLE",
+              "type": "table_caption"
+            },
+            "text": "Socio-demographic and behavioural correlates of absenteeism (missing more than 8 lecture days) among Hawassa University College of medicine and health science students, June 2013",
+            "sentences": [],
+            "annotations": [],
+            "relations": []
+          },
+          {
+            "bioctype": "BioCPassage",
+            "offset": 24178,
+            "infons": {
+              "file": "T4.xml",
+              "id": "T4",
+              "section_type": "TABLE",
+              "type": "table",
+              "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<table frame=\"hsides\" rules=\"groups\" border=\"1\"><colgroup><col align=\"left\"/><col align=\"left\"/><col align=\"left\"/><col align=\"left\"/><col align=\"left\"/></colgroup><thead valign=\"top\"><tr><th align=\"left\" valign=\"bottom\"><bold>Factors</bold><hr/></th><th colspan=\"2\" align=\"left\" valign=\"bottom\"><bold>Missing &gt;8 lecture class days</bold><hr/></th><th align=\"left\" valign=\"bottom\"><bold>Adjusted OR (95% CI)</bold><hr/></th><th align=\"left\" valign=\"bottom\"><bold>p-value</bold><hr/></th></tr><tr><th align=\"left\">\u00a0</th><th align=\"left\"><bold>No</bold></th><th align=\"left\"><bold>Yes</bold></th><th align=\"left\">\u00a0</th><th align=\"left\">\u00a0</th></tr></thead><tbody valign=\"top\"><tr><td colspan=\"4\" align=\"left\" valign=\"bottom\"><bold>Age (N = 379)</bold><hr/></td><td align=\"left\" valign=\"bottom\">\u00a0<hr/></td></tr><tr><td align=\"left\" valign=\"bottom\">15-19<hr/></td><td align=\"left\" valign=\"bottom\">125 (92.6%)<hr/></td><td align=\"left\" valign=\"bottom\">10 (7.4%)<hr/></td><td align=\"left\" valign=\"bottom\">1.00 (Reference)<hr/></td><td rowspan=\"2\" align=\"left\" valign=\"top\"><bold>0.007</bold><hr/></td></tr><tr><td align=\"left\" valign=\"bottom\">20 or more<hr/></td><td align=\"left\" valign=\"bottom\">210 (86.1%)<hr/></td><td align=\"left\" valign=\"bottom\">34 (13.9%)<hr/></td><td align=\"left\" valign=\"bottom\">4.20 (1.48-11.92)<hr/></td></tr><tr><td colspan=\"4\" align=\"left\" valign=\"bottom\"><bold>Original background (N = 1153)</bold><hr/></td><td align=\"left\" valign=\"bottom\">\u00a0<hr/></td></tr><tr><td align=\"left\" valign=\"bottom\">Urban<hr/></td><td align=\"left\" valign=\"bottom\">542 (81.7%)<hr/></td><td align=\"left\" valign=\"bottom\">121 (18.3%)<hr/></td><td align=\"left\" valign=\"bottom\">1.00 (Reference)<hr/></td><td rowspan=\"2\" align=\"left\" valign=\"top\">0.461<hr/></td></tr><tr><td align=\"left\" valign=\"bottom\">Rural<hr/></td><td align=\"left\" valign=\"bottom\">448 (91.4%)<hr/></td><td align=\"left\" valign=\"bottom\">42 (8.6%)<hr/></td><td align=\"left\" valign=\"bottom\">0.65 (0.21-2.01)<hr/></td></tr><tr><td colspan=\"4\" align=\"left\" valign=\"bottom\"><bold>Type of high school attended (N = 1174)</bold><hr/></td><td align=\"left\" valign=\"bottom\">\u00a0<hr/></td></tr><tr><td align=\"left\" valign=\"bottom\">Public high school<hr/></td><td align=\"left\" valign=\"bottom\">825 (88.9%)<hr/></td><td align=\"left\" valign=\"bottom\">103 (11.1%)<hr/></td><td align=\"left\" valign=\"bottom\">1.00 (Reference)<hr/></td><td rowspan=\"2\" align=\"left\" valign=\"top\">0.869<hr/></td></tr><tr><td align=\"left\" valign=\"bottom\">Private high school<hr/></td><td align=\"left\" valign=\"bottom\">167 (75.9%)<hr/></td><td align=\"left\" valign=\"bottom\">53 (24.1%)<hr/></td><td align=\"left\" valign=\"bottom\">1.09 (0.36-3.26)<hr/></td></tr><tr><td align=\"left\" valign=\"bottom\">Missionary high school<hr/></td><td align=\"left\" valign=\"bottom\">16 (61.5%)<hr/></td><td align=\"left\" valign=\"bottom\">10 (38.5%)<hr/></td><td align=\"left\" valign=\"bottom\">0.00<hr/></td><td align=\"left\" valign=\"bottom\">0.999<hr/></td></tr><tr><td colspan=\"4\" align=\"left\" valign=\"bottom\"><bold>Entrance exam score range (N = 1097)</bold><hr/></td><td align=\"left\" valign=\"bottom\">\u00a0<hr/></td></tr><tr><td align=\"left\" valign=\"bottom\">Excellent<hr/></td><td align=\"left\" valign=\"bottom\">184 (78%)<hr/></td><td align=\"left\" valign=\"bottom\">52 (22%)<hr/></td><td align=\"left\" valign=\"bottom\">1.00 (Reference)<hr/></td><td align=\"left\" valign=\"bottom\">\u00a0<hr/></td></tr><tr><td align=\"left\" valign=\"bottom\">Very good<hr/></td><td align=\"left\" valign=\"bottom\">455 (87.8%)<hr/></td><td align=\"left\" valign=\"bottom\">63 (12.2%)<hr/></td><td align=\"left\" valign=\"bottom\">0.54 (0.16-1.75)<hr/></td><td align=\"left\" valign=\"bottom\">0.309<hr/></td></tr><tr><td align=\"left\" valign=\"bottom\">Good<hr/></td><td align=\"left\" valign=\"bottom\">288 (93.2%)<hr/></td><td align=\"left\" valign=\"bottom\">21 (6.8%)<hr/></td><td align=\"left\" valign=\"bottom\">0.68 (0.19-2.47)<hr/></td><td align=\"left\" valign=\"bottom\">0.568<hr/></td></tr><tr><td align=\"left\" valign=\"bottom\">Fair<hr/></td><td align=\"left\" valign=\"bottom\">17 (77.3%)<hr/></td><td align=\"left\" valign=\"bottom\">5 (22.7%)<hr/></td><td align=\"left\" valign=\"bottom\">0.64 (0.05-7.89)<hr/></td><td align=\"left\" valign=\"bottom\">0.729<hr/></td></tr><tr><td align=\"left\" valign=\"bottom\">Poor<hr/></td><td align=\"left\" valign=\"bottom\">7 (58.3%)<hr/></td><td align=\"left\" valign=\"bottom\">5 (41.7%)<hr/></td><td align=\"left\" valign=\"bottom\">0.72 (0.04-11.23)<hr/></td><td align=\"left\" valign=\"bottom\">0.819<hr/></td></tr><tr><td colspan=\"4\" align=\"left\" valign=\"bottom\"><bold>Mother\u2019s education level (N = 1169)</bold><hr/></td><td align=\"left\" valign=\"bottom\">\u00a0<hr/></td></tr><tr><td align=\"left\" valign=\"bottom\">Illiterate<hr/></td><td align=\"left\" valign=\"bottom\">363 (91.4%)<hr/></td><td align=\"left\" valign=\"bottom\">34 (8.6%)<hr/></td><td align=\"left\" valign=\"bottom\">1.00 (Reference)<hr/></td><td rowspan=\"2\" align=\"left\" valign=\"top\">0.115<hr/></td></tr><tr><td align=\"left\" valign=\"bottom\">Literate<hr/></td><td align=\"left\" valign=\"bottom\">639 (82.8%)<hr/></td><td align=\"left\" valign=\"bottom\">133 (17.2%)<hr/></td><td align=\"left\" valign=\"bottom\">4.14 (0.70-24.25)<hr/></td></tr><tr><td colspan=\"4\" align=\"left\" valign=\"bottom\"><bold>Father\u2019s education level (N = 1171)</bold><hr/></td><td align=\"left\" valign=\"bottom\">\u00a0<hr/></td></tr><tr><td align=\"left\" valign=\"bottom\">Illiterate<hr/></td><td align=\"left\" valign=\"bottom\">265 (90.4%)<hr/></td><td align=\"left\" valign=\"bottom\">28 (9.6%)<hr/></td><td align=\"left\" valign=\"bottom\">1.00 (Reference)<hr/></td><td rowspan=\"2\" align=\"left\" valign=\"top\">0.950<hr/></td></tr><tr><td align=\"left\" valign=\"bottom\">Literate<hr/></td><td align=\"left\" valign=\"bottom\">742 (84.5%)<hr/></td><td align=\"left\" valign=\"bottom\">136 (15.5%)<hr/></td><td align=\"left\" valign=\"bottom\">0.94 (0.16-5.41)<hr/></td></tr><tr><td colspan=\"4\" align=\"left\" valign=\"bottom\"><bold>Dining place of students (N = 1180)</bold><hr/></td><td align=\"left\" valign=\"bottom\">\u00a0<hr/></td></tr><tr><td align=\"left\" valign=\"bottom\">At the university\u2019s caf\u00e9<hr/></td><td align=\"left\" valign=\"bottom\">830 (87.6%)<hr/></td><td align=\"left\" valign=\"bottom\">118 (12.4%)<hr/></td><td align=\"left\" valign=\"bottom\">1.00 (Reference)<hr/></td><td rowspan=\"2\" align=\"left\" valign=\"top\">0.793<hr/></td></tr><tr><td align=\"left\" valign=\"bottom\">Outside the university caf\u00e9<hr/></td><td align=\"left\" valign=\"bottom\">183 (78.9%)<hr/></td><td align=\"left\" valign=\"bottom\">49 (21.1%)<hr/></td><td align=\"left\" valign=\"bottom\">0.84 (0.24-2.97)<hr/></td></tr><tr><td colspan=\"4\" align=\"left\" valign=\"bottom\"><bold>Monthly Pocket money (N = 1168)</bold><hr/></td><td align=\"left\" valign=\"bottom\">\u00a0<hr/></td></tr><tr><td align=\"left\" valign=\"bottom\">Less than birr 300<hr/></td><td align=\"left\" valign=\"bottom\">\u00a0<hr/></td><td align=\"left\" valign=\"bottom\">\u00a0<hr/></td><td align=\"left\" valign=\"bottom\">1.00 (Reference)<hr/></td><td rowspan=\"2\" align=\"left\" valign=\"top\">0.085<hr/></td></tr><tr><td align=\"left\" valign=\"bottom\">More than birr 300<hr/></td><td align=\"left\" valign=\"bottom\">\u00a0<hr/></td><td align=\"left\" valign=\"bottom\">\u00a0<hr/></td><td align=\"left\" valign=\"bottom\">2.62 (0.87-7.90)<hr/></td></tr><tr><td colspan=\"2\" align=\"left\" valign=\"bottom\"><bold>Field of study (N = 1182)</bold><hr/></td><td align=\"left\" valign=\"bottom\">\u00a0<hr/></td><td align=\"left\" valign=\"bottom\">\u00a0<hr/></td><td align=\"left\" valign=\"bottom\">\u00a0<hr/></td></tr><tr><td align=\"left\" valign=\"bottom\">Other health sciences<hr/></td><td align=\"left\" valign=\"bottom\">727 (94.3%)<hr/></td><td align=\"left\" valign=\"bottom\">44 (5.7%)<hr/></td><td align=\"left\" valign=\"bottom\">1.00 (Reference)<hr/></td><td rowspan=\"2\" align=\"left\" valign=\"top\"><bold>0.021</bold><hr/></td></tr><tr><td align=\"left\" valign=\"bottom\">Medicine<hr/></td><td align=\"left\" valign=\"bottom\">289 (70.3%)<hr/></td><td align=\"left\" valign=\"bottom\">122 (29.7%)<hr/></td><td align=\"left\" valign=\"bottom\">5.02 (1.27-19.73)<hr/></td></tr><tr><td colspan=\"4\" align=\"left\" valign=\"bottom\"><bold>Year of study (N = 1187)</bold><hr/></td><td rowspan=\"3\" align=\"left\" valign=\"top\">0.330<hr/></td></tr><tr><td align=\"left\" valign=\"bottom\">1st year<hr/></td><td align=\"left\" valign=\"bottom\">132 (96.4%)<hr/></td><td align=\"left\" valign=\"bottom\">5 (3.6%)<hr/></td><td align=\"left\" valign=\"bottom\">1.00 (Reference)<hr/></td></tr><tr><td align=\"left\" valign=\"bottom\">2nd year and above<hr/></td><td align=\"left\" valign=\"bottom\">888 (84.6%)<hr/></td><td align=\"left\" valign=\"bottom\">162 (15.4%)<hr/></td><td align=\"left\" valign=\"bottom\">0.45 (0.09-2.22)<hr/></td></tr><tr><td colspan=\"4\" align=\"left\" valign=\"bottom\"><bold>Like their field of study (N = 1182)</bold><hr/></td><td align=\"left\" valign=\"bottom\">\u00a0<hr/></td></tr><tr><td align=\"left\" valign=\"bottom\">Yes<hr/></td><td align=\"left\" valign=\"bottom\">776 (87.5%)<hr/></td><td align=\"left\" valign=\"bottom\">111 (12.5%)<hr/></td><td align=\"left\" valign=\"bottom\">1.00 (Reference)<hr/></td><td rowspan=\"2\" align=\"left\" valign=\"top\">0.608<hr/></td></tr><tr><td align=\"left\" valign=\"bottom\">No<hr/></td><td align=\"left\" valign=\"bottom\">239 (81%)<hr/></td><td align=\"left\" valign=\"bottom\">56 (19%)<hr/></td><td align=\"left\" valign=\"bottom\">1.32 (0.45-3.82)<hr/></td></tr><tr><td colspan=\"5\" align=\"left\" valign=\"bottom\"><bold>Class size (N = 1187)</bold><hr/></td></tr><tr><td align=\"left\" valign=\"bottom\">Small<hr/></td><td align=\"left\" valign=\"bottom\">505 (79.9%)<hr/></td><td align=\"left\" valign=\"bottom\">127 (20.1%)<hr/></td><td align=\"left\" valign=\"bottom\">1.00 (Reference)<hr/></td><td rowspan=\"2\" align=\"left\" valign=\"top\">0.647<hr/></td></tr><tr><td align=\"left\" valign=\"bottom\">Large<hr/></td><td align=\"left\" valign=\"bottom\">515 (92.8%)<hr/></td><td align=\"left\" valign=\"bottom\">40 (7.2%)<hr/></td><td align=\"left\" valign=\"bottom\">0.71 (0.16-3.011)<hr/></td></tr><tr><td colspan=\"4\" align=\"left\" valign=\"bottom\"><bold>Cumulative GPA (N = 1187)</bold><hr/></td><td align=\"left\" valign=\"bottom\">\u00a0<hr/></td></tr><tr><td align=\"left\" valign=\"bottom\">Low<hr/></td><td align=\"left\" valign=\"bottom\">193 (81.8%)<hr/></td><td align=\"left\" valign=\"bottom\">43 (18.2%)<hr/></td><td align=\"left\" valign=\"bottom\">1.00 (Reference)<hr/></td><td rowspan=\"2\" align=\"left\" valign=\"top\">0.428<hr/></td></tr><tr><td align=\"left\" valign=\"bottom\">High<hr/></td><td align=\"left\" valign=\"bottom\">827 (87%)<hr/></td><td align=\"left\" valign=\"bottom\">124 (13%)<hr/></td><td align=\"left\" valign=\"bottom\">0.55 (0.12-2.38)<hr/></td></tr><tr><td colspan=\"4\" align=\"left\" valign=\"bottom\"><bold>Use of substance (N = 1144)</bold><hr/></td><td align=\"left\" valign=\"bottom\">\u00a0<hr/></td></tr><tr><td align=\"left\" valign=\"bottom\">No<hr/></td><td align=\"left\" valign=\"bottom\">871 (87.6%)<hr/></td><td align=\"left\" valign=\"bottom\">123 (12.4%)<hr/></td><td align=\"left\" valign=\"bottom\">1.00 (Reference)<hr/></td><td align=\"left\" valign=\"bottom\"><bold>&lt;0.0001</bold><hr/></td></tr><tr><td align=\"left\">Yes</td><td align=\"left\">111 (74%)</td><td align=\"left\">39 (26%)</td><td align=\"left\">18.70 (4.59-76.18)</td><td align=\"left\">\u00a0</td></tr></tbody></table>\n"
+            },
+            "text": "Factors\tMissing >8 lecture class days\tAdjusted OR (95% CI)\tp-value\t \t\u00a0\tNo\tYes\t\u00a0\t\u00a0\t \tAge (N = 379)\t\u00a0\t \t15-19\t125 (92.6%)\t10 (7.4%)\t1.00 (Reference)\t0.007\t \t20 or more\t210 (86.1%)\t34 (13.9%)\t4.20 (1.48-11.92)\t \tOriginal background (N = 1153)\t\u00a0\t \tUrban\t542 (81.7%)\t121 (18.3%)\t1.00 (Reference)\t0.461\t \tRural\t448 (91.4%)\t42 (8.6%)\t0.65 (0.21-2.01)\t \tType of high school attended (N = 1174)\t\u00a0\t \tPublic high school\t825 (88.9%)\t103 (11.1%)\t1.00 (Reference)\t0.869\t \tPrivate high school\t167 (75.9%)\t53 (24.1%)\t1.09 (0.36-3.26)\t \tMissionary high school\t16 (61.5%)\t10 (38.5%)\t0.00\t0.999\t \tEntrance exam score range (N = 1097)\t\u00a0\t \tExcellent\t184 (78%)\t52 (22%)\t1.00 (Reference)\t\u00a0\t \tVery good\t455 (87.8%)\t63 (12.2%)\t0.54 (0.16-1.75)\t0.309\t \tGood\t288 (93.2%)\t21 (6.8%)\t0.68 (0.19-2.47)\t0.568\t \tFair\t17 (77.3%)\t5 (22.7%)\t0.64 (0.05-7.89)\t0.729\t \tPoor\t7 (58.3%)\t5 (41.7%)\t0.72 (0.04-11.23)\t0.819\t \tMother\u2019s education level (N = 1169)\t\u00a0\t \tIlliterate\t363 (91.4%)\t34 (8.6%)\t1.00 (Reference)\t0.115\t \tLiterate\t639 (82.8%)\t133 (17.2%)\t4.14 (0.70-24.25)\t \tFather\u2019s education level (N = 1171)\t\u00a0\t \tIlliterate\t265 (90.4%)\t28 (9.6%)\t1.00 (Reference)\t0.950\t \tLiterate\t742 (84.5%)\t136 (15.5%)\t0.94 (0.16-5.41)\t \tDining place of students (N = 1180)\t\u00a0\t \tAt the university\u2019s caf\u00e9\t830 (87.6%)\t118 (12.4%)\t1.00 (Reference)\t0.793\t \tOutside the university caf\u00e9\t183 (78.9%)\t49 (21.1%)\t0.84 (0.24-2.97)\t \tMonthly Pocket money (N = 1168)\t\u00a0\t \tLess than birr 300\t\u00a0\t\u00a0\t1.00 (Reference)\t0.085\t \tMore than birr 300\t\u00a0\t\u00a0\t2.62 (0.87-7.90)\t \tField of study (N = 1182)\t\u00a0\t\u00a0\t\u00a0\t \tOther health sciences\t727 (94.3%)\t44 (5.7%)\t1.00 (Reference)\t0.021\t \tMedicine\t289 (70.3%)\t122 (29.7%)\t5.02 (1.27-19.73)\t \tYear of study (N = 1187)\t0.330\t \t1st year\t132 (96.4%)\t5 (3.6%)\t1.00 (Reference)\t \t2nd year and above\t888 (84.6%)\t162 (15.4%)\t0.45 (0.09-2.22)\t \tLike their field of study (N = 1182)\t\u00a0\t \tYes\t776 (87.5%)\t111 (12.5%)\t1.00 (Reference)\t0.608\t \tNo\t239 (81%)\t56 (19%)\t1.32 (0.45-3.82)\t \tClass size (N = 1187)\t \tSmall\t505 (79.9%)\t127 (20.1%)\t1.00 (Reference)\t0.647\t \tLarge\t515 (92.8%)\t40 (7.2%)\t0.71 (0.16-3.011)\t \tCumulative GPA (N = 1187)\t\u00a0\t \tLow\t193 (81.8%)\t43 (18.2%)\t1.00 (Reference)\t0.428\t \tHigh\t827 (87%)\t124 (13%)\t0.55 (0.12-2.38)\t \tUse of substance (N = 1144)\t\u00a0\t \tNo\t871 (87.6%)\t123 (12.4%)\t1.00 (Reference)\t<0.0001\t \tYes\t111 (74%)\t39 (26%)\t18.70 (4.59-76.18)\t\u00a0\t \t",
+            "sentences": [],
+            "annotations": [],
+            "relations": []
+          },
+          {
+            "bioctype": "BioCPassage",
+            "offset": 26522,
+            "infons": {
+              "file": "T4.xml",
+              "id": "T4",
+              "section_type": "TABLE",
+              "type": "table_foot"
+            },
+            "text": "Note: P-values in bold are statistically significant (p < 0.05).",
+            "sentences": [],
+            "annotations": [],
+            "relations": []
+          },
+          {
+            "bioctype": "BioCPassage",
+            "offset": 26587,
+            "infons": {
+              "section_type": "DISCUSS",
+              "type": "title_1"
+            },
+            "text": "Discussion",
+            "sentences": [],
+            "annotations": [],
+            "relations": []
+          },
+          {
+            "bioctype": "BioCPassage",
+            "offset": 26598,
+            "infons": {
+              "section_type": "DISCUSS",
+              "type": "paragraph"
+            },
+            "text": "In this study, nearly half of the students, 43.7% (95% CI\u2009=\u20097.8-11.4) reported that they had missed three or more lectures and 14.1% (95% CI\u2009=\u200912.2-16.2) missed more than 8 lectures in the preceding semester. Student absenteeism was significantly associated with age, degree pursued (medical vs. health science) and social drug use. The major reasons reported by the study participants for missing lectures were preparing for another examination, inconvenient class schedule, lack of interest in the subject matter, dislike of teaching style and the ease of understanding the subject matter without guidance. The prevalence of absenteeism and associated risk factors at Hawassa University College of Medicine and Health Sciences were consistent with finding from three South African universities. Studies indicate that absenteeism from lectures and tutorials is a growing trend.",
+            "sentences": [],
+            "annotations": [],
+            "relations": []
+          },
+          {
+            "bioctype": "BioCPassage",
+            "offset": 27485,
+            "infons": {
+              "section_type": "DISCUSS",
+              "type": "paragraph"
+            },
+            "text": "Previous studies have shown that academic and non-academic workload on students could be a factor in affecting attendance. University instructors can encourage positive attitudes towards the importance of class attendance. Individual attitude and motivation for learning was a key factor in student absenteeism. Among our study participants, lack of interest in the subject matter was reported as a reason for non-attendance. This could be attributed to two reasons: 1) the likelihood that the majority of health science students are assigned to the field probably against their choice; 2) even though medical students elect to be on the medical track, they may find the course work more rigorous and demanding.",
+            "sentences": [],
+            "annotations": [],
+            "relations": []
+          },
+          {
+            "bioctype": "BioCPassage",
+            "offset": 28197,
+            "infons": {
+              "section_type": "DISCUSS",
+              "type": "paragraph"
+            },
+            "text": "Quality of lecture as perceived by the student was also found to be a significant factor for very low levels of attendance among students in different studies. More training should be given to instructors in order to improve the teaching methodologies could help improve attendance.",
+            "sentences": [],
+            "annotations": [],
+            "relations": []
+          },
+          {
+            "bioctype": "BioCPassage",
+            "offset": 28480,
+            "infons": {
+              "section_type": "DISCUSS",
+              "type": "paragraph"
+            },
+            "text": "Older students were found more likely to be absent more than 8 lectures in a semester than younger students. This can be attributed to a behavior change due to peer influence and increased level of familiarity with the program and culture on campus. Interventions targeting the younger students might be successful in improving class attendance and behavior during the senior years.",
+            "sentences": [],
+            "annotations": [],
+            "relations": []
+          },
+          {
+            "bioctype": "BioCPassage",
+            "offset": 28863,
+            "infons": {
+              "section_type": "DISCUSS",
+              "type": "paragraph"
+            },
+            "text": "The surprising finding of this study was the strong association of class absenteeism with being a medical student. The medical students were more likely to miss classes than health science students (Nursing, Health Officer, Midwifery, Laboratory Technology, Optometry, and Environmental Health) despite the medical curriculum requirement of 100% class attendance unless the student has legitimate reasons for missing class. This could explain why academic delays and dismissals from the program are commonly observed among medical students, particularly during the final years in this medical school. If this behavior continues after school, it will reflect on their work life and therefore, may affect the quality of health service in the future.",
+            "sentences": [],
+            "annotations": [],
+            "relations": []
+          },
+          {
+            "bioctype": "BioCPassage",
+            "offset": 29611,
+            "infons": {
+              "section_type": "DISCUSS",
+              "type": "paragraph"
+            },
+            "text": "Social drug use was very strongly associated with being absent from lectures. Previous studies have shown that substance abuse and alcohol consumption are risk factors for prevalent and unexcused absence from lectures. Additionally, students with low motivation are more likely to engage in social drug use. Low motivation to learn was significantly associated with being absent in more lectures.",
+            "sentences": [],
+            "annotations": [],
+            "relations": []
+          },
+          {
+            "bioctype": "BioCPassage",
+            "offset": 30008,
+            "infons": {
+              "section_type": "DISCUSS",
+              "type": "paragraph"
+            },
+            "text": "Contrary to other studies, we didn\u2019t find a clear and significant association between absenteeism and academic achievement among the study participants. Further, our data suggest that class size, background of students, amount of monthly allowance, parental education level, and dining place of students were not significantly associated with missing more lectures.",
+            "sentences": [],
+            "annotations": [],
+            "relations": []
+          },
+          {
+            "bioctype": "BioCPassage",
+            "offset": 30376,
+            "infons": {
+              "section_type": "DISCUSS",
+              "type": "paragraph"
+            },
+            "text": "One of our limitations in assessing the question of student absenteeism is the study design. It is a descriptive cross-sectional study without a qualitative component that does not allow for gathering detailed information to establish causality between absenteeism and its predictors. The data were collected based on self-reporting of non-attendance, which can be subject to recall bias. In addition, under reporting of non-attendance is also probable due to social desirability bias. On the other hand, most of the data were collected in classrooms. As a result, an important population of students (students who miss class frequently) is missed; thus the level of student absenteeism seems to be even worse. Lastly, the data collection was not completed in a day; as a result, the authors cannot rule out the possibility of information contamination. Whereas, this study involved all students of medicine and health sciences and the therefore, there was little room for errors occurring by chance. The high response rate (89%) further strengthens the conclusiveness of this result.",
+            "sentences": [],
+            "annotations": [],
+            "relations": []
+          },
+          {
+            "bioctype": "BioCPassage",
+            "offset": 31461,
+            "infons": {
+              "section_type": "DISCUSS",
+              "type": "paragraph"
+            },
+            "text": "The findings raise various issues that call for further research to determine better understand the reasons for absenteeism and its consequences. This trend should be taken seriously as it will have long-term consequences for the health-delivery and health services in Ethiopia.",
+            "sentences": [],
+            "annotations": [],
+            "relations": []
+          },
+          {
+            "bioctype": "BioCPassage",
+            "offset": 31740,
+            "infons": {
+              "section_type": "CONCL",
+              "type": "title_1"
+            },
+            "text": "Conclusion",
+            "sentences": [],
+            "annotations": [],
+            "relations": []
+          },
+          {
+            "bioctype": "BioCPassage",
+            "offset": 31751,
+            "infons": {
+              "section_type": "CONCL",
+              "type": "paragraph"
+            },
+            "text": "A significant number of study participants reported missing lectures in the previous semester. Missing lectures was associated with age of students, field of study, social drug use, lack of interest in the subject matter, and disliking the teaching style of the instructors. Cumulative grade point average, background of students, gender, parental education level, monthly allowance and class-size were not predictors of absenteeism in the study. Not only student behavior, but also teacher attributes and teaching methodologies appear to play a role in student absenteeism from lectures. Student absenteeism at a wider level will have detrimental consequences on societal values, productivity and economy of our country. Paying attention to the reasons for absenteeism reported by students could help institutions respond accordingly.",
+            "sentences": [],
+            "annotations": [],
+            "relations": []
+          },
+          {
+            "bioctype": "BioCPassage",
+            "offset": 32587,
+            "infons": {
+              "section_type": "CONCL",
+              "type": "title_1"
+            },
+            "text": "Recommendation",
+            "sentences": [],
+            "annotations": [],
+            "relations": []
+          },
+          {
+            "bioctype": "BioCPassage",
+            "offset": 32602,
+            "infons": {
+              "section_type": "CONCL",
+              "type": "paragraph"
+            },
+            "text": "Our findings indicate that to reduce the incidence of absenteeism, medical students and faculty need to be made aware of the problem and its immediate and long term consequences for the students and society at large. It is important to remind students this during admission and throughout their enrollment in medical school. Discouraging social drug use should also improve motivation to learn and increase attendance. In addition, higher institutions need to improve quality of lecture materials and teaching techniques to reduce absenteeism. Regular training for instructors to help them improve their teaching methodologies could be a useful intervention. In-depth investigation of reasons for missing classes using qualitative methods is warranted.",
+            "sentences": [],
+            "annotations": [],
+            "relations": []
+          },
+          {
+            "bioctype": "BioCPassage",
+            "offset": 33355,
+            "infons": {
+              "section_type": "COMP_INT",
+              "type": "title_1"
+            },
+            "text": "Competing interests",
+            "sentences": [],
+            "annotations": [],
+            "relations": []
+          },
+          {
+            "bioctype": "BioCPassage",
+            "offset": 33375,
+            "infons": {
+              "section_type": "COMP_INT",
+              "type": "paragraph"
+            },
+            "text": "The authors declare that they do not have any competing interests.",
+            "sentences": [],
+            "annotations": [],
+            "relations": []
+          },
+          {
+            "bioctype": "BioCPassage",
+            "offset": 33442,
+            "infons": {
+              "section_type": "AUTH_CONT",
+              "type": "title_1"
+            },
+            "text": "Authors\u2019 contributions",
+            "sentences": [],
+            "annotations": [],
+            "relations": []
+          },
+          {
+            "bioctype": "BioCPassage",
+            "offset": 33467,
+            "infons": {
+              "section_type": "AUTH_CONT",
+              "type": "paragraph"
+            },
+            "text": "AAD conceived the idea, drafted the proposal and involved in all implementation stages of the project and write up; AB reviewed the proposal, and involved in all implementation stages of the project and write up. YB assisted the analysis and reviewed the proposal and the final manuscript. All authors approved final version of the manuscript.",
+            "sentences": [],
+            "annotations": [],
+            "relations": []
+          },
+          {
+            "bioctype": "BioCPassage",
+            "offset": 33811,
+            "infons": {
+              "section_type": "SUPPL",
+              "type": "title_1"
+            },
+            "text": "Pre-publication history",
+            "sentences": [],
+            "annotations": [],
+            "relations": []
+          },
+          {
+            "bioctype": "BioCPassage",
+            "offset": 33835,
+            "infons": {
+              "section_type": "SUPPL",
+              "type": "paragraph"
+            },
+            "text": "The pre-publication history for this paper can be accessed here:",
+            "sentences": [],
+            "annotations": [],
+            "relations": []
+          },
+          {
+            "bioctype": "BioCPassage",
+            "offset": 33900,
+            "infons": {
+              "section_type": "SUPPL",
+              "type": "paragraph"
+            },
+            "text": "http://www.biomedcentral.com/1472-6920/14/81/prepub",
+            "sentences": [],
+            "annotations": [],
+            "relations": []
+          },
+          {
+            "bioctype": "BioCPassage",
+            "offset": 33952,
+            "infons": {
+              "section_type": "ACK_FUND",
+              "type": "title_1"
+            },
+            "text": "Acknowledgements",
+            "sentences": [],
+            "annotations": [],
+            "relations": []
+          },
+          {
+            "bioctype": "BioCPassage",
+            "offset": 33969,
+            "infons": {
+              "section_type": "ACK_FUND",
+              "type": "paragraph"
+            },
+            "text": "The authors would like to acknowledge JHU TSEHAI (Johns Hopkins University Technical Support for Ethiopian HIV/ART Initiative) for the financial support. I would like to express my heartfelt gratitude to AuthorAid website which provides free mentors who help individuals from developing country publish their work. My special thanks among the mentors goes to Dr. Banalata Sen, Program Coordinator of Global Environmental Health at National Institute of Environmental Health Sciences (Research Triangle Park, North Carolina, United states) for editing and review of the manuscript.",
+            "sentences": [],
+            "annotations": [],
+            "relations": []
+          },
+          {
+            "bioctype": "BioCPassage",
+            "offset": 34550,
+            "infons": {
+              "fpage": "89",
+              "issue": "2",
+              "lpage": "97",
+              "name_0": "surname:Wadesango;given-names:N",
+              "name_1": "surname:Machingambi;given-names:S",
+              "section_type": "REF",
+              "source": "J Soc Sci",
+              "type": "ref",
+              "volume": "26",
+              "year": "2011"
+            },
+            "text": "Causes and structural effects of student absenteeism: a case study of three South African Universities",
+            "sentences": [],
+            "annotations": [],
+            "relations": []
+          },
+          {
+            "bioctype": "BioCPassage",
+            "offset": 34653,
+            "infons": {
+              "fpage": "5",
+              "issue": "2",
+              "lpage": "16",
+              "name_0": "surname:Kottasz;given-names:R",
+              "section_type": "REF",
+              "source": "Investig Univ Teach Learn",
+              "type": "ref",
+              "volume": "2",
+              "year": "2005"
+            },
+            "text": "Reasons for student non-attendance at lectures and tutorials: an analysis",
+            "sentences": [],
+            "annotations": [],
+            "relations": []
+          },
+          {
+            "bioctype": "BioCPassage",
+            "offset": 34727,
+            "infons": {
+              "fpage": "39",
+              "issue": "1",
+              "lpage": "46",
+              "name_0": "surname:Gump;given-names:SE",
+              "pub-id_doi": "10.1080/03055690500415936",
+              "section_type": "REF",
+              "source": "Educ Stud",
+              "type": "ref",
+              "volume": "32",
+              "year": "2006"
+            },
+            "text": "Guess who\u2019s (not) coming to class: student attitudes as indicators of attendance",
+            "sentences": [],
+            "annotations": [],
+            "relations": []
+          },
+          {
+            "bioctype": "BioCPassage",
+            "offset": 34810,
+            "infons": {
+              "fpage": "7",
+              "issue": "1",
+              "lpage": "17",
+              "name_0": "surname:Obeng-Denteh;given-names:W",
+              "name_1": "surname:Yeboah;given-names:EA",
+              "name_2": "surname:Sam;given-names:C",
+              "name_3": "surname:Monkah;given-names:JE",
+              "section_type": "REF",
+              "source": "Cont J Educ Res",
+              "type": "ref",
+              "volume": "4",
+              "year": "2011"
+            },
+            "text": "The impact of student and teacher absenteeism on student performance at the junior high school: the case of the Kumasi-metro school district",
+            "sentences": [],
+            "annotations": [],
+            "relations": []
+          },
+          {
+            "bioctype": "BioCPassage",
+            "offset": 34951,
+            "infons": {
+              "fpage": "105",
+              "issue": "1",
+              "lpage": "125",
+              "name_0": "surname:Moore;given-names:R",
+              "section_type": "REF",
+              "source": "J First-Year Exp Students Transit",
+              "type": "ref",
+              "volume": "18",
+              "year": "2006"
+            },
+            "text": "The importance of admissions scores and attendance to first-year performance",
+            "sentences": [],
+            "annotations": [],
+            "relations": []
+          },
+          {
+            "bioctype": "BioCPassage",
+            "offset": 35028,
+            "infons": {
+              "fpage": "596",
+              "issue": "6",
+              "lpage": "601",
+              "name_0": "surname:Bati;given-names:AH",
+              "name_1": "surname:Mandiracioglu;given-names:A",
+              "name_2": "surname:Orgun;given-names:F",
+              "name_3": "surname:Govsa;given-names:F",
+              "pub-id_doi": "10.1016/j.nedt.2012.07.010",
+              "pub-id_pmid": "22863210",
+              "section_type": "REF",
+              "source": "Nurse Educ Today",
+              "type": "ref",
+              "volume": "33",
+              "year": "2013"
+            },
+            "text": "Why do students miss lectures? A study of lecture attendance amongst students of health science",
+            "sentences": [],
+            "annotations": [],
+            "relations": []
+          },
+          {
+            "bioctype": "BioCPassage",
+            "offset": 35124,
+            "infons": {
+              "fpage": "82",
+              "issue": "2",
+              "lpage": "103",
+              "name_0": "surname:Massingham;given-names:P",
+              "name_1": "surname:Herrington;given-names:T",
+              "section_type": "REF",
+              "source": "J Univ Teach Learn Prac",
+              "type": "ref",
+              "volume": "3",
+              "year": "2006"
+            },
+            "text": "Does attendance matter? An examination of student attitudes, participation, performance and attendance",
+            "sentences": [],
+            "annotations": [],
+            "relations": []
+          },
+          {
+            "bioctype": "BioCPassage",
+            "offset": 35227,
+            "infons": {
+              "fpage": "541",
+              "issue": "6",
+              "lpage": "548",
+              "name_0": "surname:Cook;given-names:DA",
+              "pub-id_doi": "10.1097/00001888-200506000-00005",
+              "pub-id_pmid": "15917356",
+              "section_type": "REF",
+              "source": "Acad Med",
+              "type": "ref",
+              "volume": "80",
+              "year": "2005"
+            },
+            "text": "The research we still are not doing: an agenda of the study of computer-based learning",
+            "sentences": [],
+            "annotations": [],
+            "relations": []
+          },
+          {
+            "bioctype": "BioCPassage",
+            "offset": 35314,
+            "infons": {
+              "fpage": "207",
+              "issue": "3",
+              "lpage": "2012",
+              "name_0": "surname:Ruiz;given-names:JG",
+              "name_1": "surname:Mintzer;given-names:MJ",
+              "name_2": "surname:Lepizig;given-names:RM",
+              "pub-id_doi": "10.1097/00001888-200603000-00002",
+              "pub-id_pmid": "16501260",
+              "section_type": "REF",
+              "source": "Acad Med",
+              "type": "ref",
+              "volume": "81",
+              "year": "2006"
+            },
+            "text": "The impact of E-learning in medical education",
+            "sentences": [],
+            "annotations": [],
+            "relations": []
+          },
+          {
+            "bioctype": "BioCPassage",
+            "offset": 35360,
+            "infons": {
+              "fpage": "300",
+              "issue": "5",
+              "lpage": "309",
+              "name_0": "surname:Davis;given-names:EA",
+              "name_1": "surname:Hodqson;given-names:Y",
+              "name_2": "surname:Macaulay;given-names:JO",
+              "pub-id_doi": "10.1002/bmb.20627",
+              "pub-id_pmid": "22987551",
+              "section_type": "REF",
+              "source": "Biochem Mol Bio Educ",
+              "type": "ref",
+              "volume": "40",
+              "year": "2012"
+            },
+            "text": "Engagement of students with lectures in biochemistry and pharmacology",
+            "sentences": [],
+            "annotations": [],
+            "relations": []
+          },
+          {
+            "bioctype": "BioCPassage",
+            "offset": 35430,
+            "infons": {
+              "fpage": "62",
+              "lpage": "70",
+              "name_0": "surname:Fernandes;given-names:L",
+              "name_1": "surname:Maley;given-names:M",
+              "name_2": "surname:Cruickshank;given-names:C",
+              "section_type": "REF",
+              "source": "J Int Assoc Med Sci Educ",
+              "type": "ref",
+              "volume": "18",
+              "year": "2008"
+            },
+            "text": "The impact of online lecture recording on learning outcomes in pharmacology",
+            "sentences": [],
+            "annotations": [],
+            "relations": []
+          },
+          {
+            "bioctype": "BioCPassage",
+            "offset": 35506,
+            "infons": {
+              "fpage": "272",
+              "issue": "2",
+              "lpage": "295",
+              "name_0": "surname:Cred\u00e9;given-names:M",
+              "name_1": "surname:Roch;given-names:SG",
+              "name_2": "surname:Kieszczynka;given-names:UM",
+              "pub-id_doi": "10.3102/0034654310362998",
+              "section_type": "REF",
+              "source": "Rev Educ Res",
+              "type": "ref",
+              "volume": "80",
+              "year": "2010"
+            },
+            "text": "Class attendance in college: a meta-analytic review of the relationship of class attendance with grades and student characteristics",
+            "sentences": [],
+            "annotations": [],
+            "relations": []
+          },
+          {
+            "bioctype": "BioCPassage",
+            "offset": 35638,
+            "infons": {
+              "fpage": "8",
+              "issue": "1",
+              "name_0": "surname:Hidayat;given-names:L",
+              "name_1": "surname:Vansal;given-names:S",
+              "name_2": "surname:Kim;given-names:E",
+              "name_3": "surname:Sullivan;given-names:M",
+              "name_4": "surname:Salbu;given-names:R",
+              "pub-id_doi": "10.5688/ajpe7618",
+              "pub-id_pmid": "22412207",
+              "section_type": "REF",
+              "source": "Am J Pharm Educ",
+              "type": "ref",
+              "volume": "76",
+              "year": "2012"
+            },
+            "text": "Pharmacy student absenteeism and academic performance",
+            "sentences": [],
+            "annotations": [],
+            "relations": []
+          },
+          {
+            "bioctype": "BioCPassage",
+            "offset": 35692,
+            "infons": {
+              "fpage": "139",
+              "lpage": "142",
+              "name_0": "surname:Obeidat;given-names:S",
+              "name_1": "surname:Bashir;given-names:A",
+              "name_2": "surname:Abu;given-names:JW",
+              "section_type": "REF",
+              "source": "Int J Soc Hum Sci",
+              "type": "ref",
+              "volume": "6",
+              "year": "2012"
+            },
+            "text": "The importance of class attendance and cumulative gpa for academic success in industrial engineering classes",
+            "sentences": [],
+            "annotations": [],
+            "relations": []
+          },
+          {
+            "bioctype": "BioCPassage",
+            "offset": 35801,
+            "infons": {
+              "fpage": "614",
+              "lpage": "623",
+              "name_0": "surname:El Tantawi;given-names:MM",
+              "section_type": "REF",
+              "source": "J Dental Educ",
+              "type": "ref",
+              "volume": "73",
+              "year": "2009"
+            },
+            "text": "Factors affecting postgraduate dental students\u2019 performance in a Biostatistics and research design course",
+            "sentences": [],
+            "annotations": [],
+            "relations": []
+          },
+          {
+            "bioctype": "BioCPassage",
+            "offset": 35909,
+            "infons": {
+              "fpage": "108",
+              "issue": "2",
+              "lpage": "115",
+              "name_0": "surname:Horton;given-names:DM",
+              "name_1": "surname:Wiederman;given-names:SD",
+              "name_2": "surname:Saint;given-names:DA",
+              "pub-id_doi": "10.1152/advan.00111.2011",
+              "pub-id_pmid": "22665425",
+              "section_type": "REF",
+              "source": "Adv Physiol Educ",
+              "type": "ref",
+              "volume": "36",
+              "year": "2012"
+            },
+            "text": "Assessment outcome is weakly correlated with lecture attendance: influence of learning style and use of alternative materials",
+            "sentences": [],
+            "annotations": [],
+            "relations": []
+          },
+          {
+            "bioctype": "BioCPassage",
+            "offset": 36035,
+            "infons": {
+              "fpage": "121",
+              "lpage": "123",
+              "name_0": "surname:Gatherer;given-names:D",
+              "name_1": "surname:Manning;given-names:CR",
+              "pub-id_doi": "10.1016/S0307-4412(98)00055-7",
+              "section_type": "REF",
+              "source": "Biochem Educ",
+              "type": "ref",
+              "volume": "26",
+              "year": "1998"
+            },
+            "text": "Correlation of examination performance with lecture attendance: a comparative study of first-year biological sciences undergraduates",
+            "sentences": [],
+            "annotations": [],
+            "relations": []
+          },
+          {
+            "bioctype": "BioCPassage",
+            "offset": 36168,
+            "infons": {
+              "fpage": "311",
+              "lpage": "313",
+              "name_0": "surname:Riggs;given-names:JW",
+              "name_1": "surname:Blanco;given-names:JD",
+              "pub-id_pmid": "8041553",
+              "section_type": "REF",
+              "source": "Obstet Gynecol",
+              "type": "ref",
+              "volume": "84",
+              "year": "1994"
+            },
+            "text": "Is there a relation between student lecture attendance and clinical science subject examination score?",
+            "sentences": [],
+            "annotations": [],
+            "relations": []
+          },
+          {
+            "bioctype": "BioCPassage",
+            "offset": 36271,
+            "infons": {
+              "fpage": "1",
+              "issue": "2",
+              "lpage": "15",
+              "name_0": "surname:Caviglia-Harris;given-names:JL",
+              "section_type": "REF",
+              "source": "J Econ Finance Educ",
+              "type": "ref",
+              "volume": "4",
+              "year": "2006"
+            },
+            "text": "Attendance and achievement in economics: investigating the impact of attendance policies and absentee rates on student performance",
+            "sentences": [],
+            "annotations": [],
+            "relations": []
+          },
+          {
+            "bioctype": "BioCPassage",
+            "offset": 36402,
+            "infons": {
+              "fpage": "201",
+              "issue": "2",
+              "lpage": "210",
+              "name_0": "surname:Mattick;given-names:K",
+              "name_1": "surname:Crocker;given-names:G",
+              "name_2": "surname:Bligh;given-names:J",
+              "pub-id_doi": "10.1007/s10459-005-5492-1",
+              "pub-id_pmid": "17041787",
+              "section_type": "REF",
+              "source": "Adv Health Sci Educ Theory Pract",
+              "type": "ref",
+              "volume": "12",
+              "year": "2007"
+            },
+            "text": "Medical student attendance at non-compulsory lectures",
+            "sentences": [],
+            "annotations": [],
+            "relations": []
+          },
+          {
+            "bioctype": "BioCPassage",
+            "offset": 36456,
+            "infons": {
+              "fpage": "203",
+              "issue": "3",
+              "lpage": "211",
+              "name_0": "surname:Dolnicar;given-names:S",
+              "name_1": "surname:Kaiser;given-names:S",
+              "name_2": "surname:Matus;given-names:K",
+              "name_3": "surname:Viallem;given-names:W",
+              "pub-id_doi": "10.1177/0273475309345202",
+              "section_type": "REF",
+              "source": "J Mark Educ",
+              "type": "ref",
+              "volume": "31",
+              "year": "2009"
+            },
+            "text": "Can Australian Universities take measure to increase the lecture attendance of marketing students?",
+            "sentences": [],
+            "annotations": [],
+            "relations": []
+          },
+          {
+            "bioctype": "BioCPassage",
+            "offset": 36555,
+            "infons": {
+              "fpage": "499",
+              "issue": "3",
+              "lpage": "507",
+              "name_0": "surname:Devadoss;given-names:S",
+              "name_1": "surname:Foltz;given-names:J",
+              "pub-id_doi": "10.2307/1243268",
+              "section_type": "REF",
+              "source": "Am J Agr Econ",
+              "type": "ref",
+              "volume": "78",
+              "year": "1996"
+            },
+            "text": "Evaluation of factors influencing student\u2019s class attendance and performance",
+            "sentences": [],
+            "annotations": [],
+            "relations": []
+          },
+          {
+            "bioctype": "BioCPassage",
+            "offset": 36634,
+            "infons": {
+              "fpage": "15",
+              "issue": "1",
+              "lpage": "24",
+              "name_0": "surname:Moorea;given-names:S",
+              "name_1": "surname:Armstronga;given-names:C",
+              "name_2": "surname:Pearsona;given-names:J",
+              "section_type": "REF",
+              "source": "J High Educ Policy Manag",
+              "type": "ref",
+              "volume": "30",
+              "year": "2008"
+            },
+            "text": "Lecture absenteeism among students in higher education: a valuable route to understanding student motivation",
+            "sentences": [],
+            "annotations": [],
+            "relations": []
+          },
+          {
+            "bioctype": "BioCPassage",
+            "offset": 36743,
+            "infons": {
+              "fpage": "39",
+              "issue": "1",
+              "lpage": "52",
+              "name_0": "surname:Paisey;given-names:C",
+              "name_1": "surname:Paisey;given-names:NJ",
+              "section_type": "REF",
+              "source": "Acc Educ",
+              "type": "ref",
+              "volume": "13",
+              "year": "2004"
+            },
+            "text": "Student attendance in an accounting module \u2013 reasons for non-attendance and the effect on academic performance at a Scottish University",
+            "sentences": [],
+            "annotations": [],
+            "relations": []
+          },
+          {
+            "bioctype": "BioCPassage",
+            "offset": 36881,
+            "infons": {
+              "fpage": "451",
+              "issue": "3",
+              "lpage": "471",
+              "name_0": "surname:Kearney;given-names:AK",
+              "pub-id_doi": "10.1016/j.cpr.2007.07.012",
+              "pub-id_pmid": "17720288",
+              "section_type": "REF",
+              "source": "Clin Psychol Rev",
+              "type": "ref",
+              "volume": "28",
+              "year": "2008"
+            },
+            "text": "School absenteeism and school refusal behavior in youth: a contemporary review",
+            "sentences": [],
+            "annotations": [],
+            "relations": []
+          },
+          {
+            "bioctype": "BioCPassage",
+            "offset": 36960,
+            "infons": {
+              "fpage": "201",
+              "issue": "3",
+              "lpage": "207",
+              "name_0": "surname:Wyatt;given-names:G",
+              "pub-id_doi": "10.2307/1319061",
+              "section_type": "REF",
+              "source": "Teach Sociol",
+              "type": "ref",
+              "volume": "20",
+              "year": "1992"
+            },
+            "text": "Skipping class: an analysis of absenteeism among first-year college students",
+            "sentences": [],
+            "annotations": [],
+            "relations": []
+          },
+          {
+            "bioctype": "BioCPassage",
+            "offset": 37037,
+            "infons": {
+              "fpage": "185",
+              "lpage": "210",
+              "name_0": "surname:Zimmerman;given-names:MA",
+              "name_1": "surname:Schmeelk-Cone;given-names:KH",
+              "pub-id_doi": "10.1111/1532-7795.1302003",
+              "section_type": "REF",
+              "source": "J Res Adolesc",
+              "type": "ref",
+              "volume": "13",
+              "year": "2003"
+            },
+            "text": "A longitudinal analysis of adolescent substance use and school motivation among African American youth",
+            "sentences": [],
+            "annotations": [],
+            "relations": []
+          },
+          {
+            "bioctype": "BioCPassage",
+            "offset": 37140,
+            "infons": {
+              "fpage": "171",
+              "issue": "3",
+              "lpage": "180",
+              "name_0": "surname:St. Clair;given-names:KL",
+              "pub-id_doi": "10.1023/A:1022942400812",
+              "section_type": "REF",
+              "source": "Innov High Educ",
+              "type": "ref",
+              "volume": "23",
+              "year": "1999"
+            },
+            "text": "A case against compulsory class attendance policies in higher education",
+            "sentences": [],
+            "annotations": [],
+            "relations": []
+          }
+        ],
+        "annotations": [],
+        "relations": []
+      }
+    ]
+  }
+]
